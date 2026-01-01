@@ -1,0 +1,5924 @@
+[
+  {
+    "id": 1,
+    "ad": "İbrahim",
+    "soyadi": "SEL",
+    "dogumTarihi": 1976,
+    "dogumYeri": "OLTU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ibrahim-sel-1976-oltu.jpeg"
+  },
+  {
+    "id": 2,
+    "ad": "Saıdabdulfatohı",
+    "soyadi": "KHAIRIDINZODA",
+    "dogumTarihi": 1978,
+    "dogumYeri": "TACİKİSTAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/saidabdulfatohi-khairidinzoda-1978-tacikistan.jpeg"
+  },
+  {
+    "id": 3,
+    "ad": "İlhami",
+    "soyadi": "BALI",
+    "dogumTarihi": 1982,
+    "dogumYeri": "TABUK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ilhami-bali-1982-tabuk.jpeg"
+  },
+  {
+    "id": 4,
+    "ad": "Mustafa",
+    "soyadi": "DOKUMACI",
+    "dogumTarihi": 1985,
+    "dogumYeri": "ADANA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-dokumaci-1985-adana.jpeg"
+  },
+  {
+    "id": 5,
+    "ad": "Hasan",
+    "soyadi": "AYDIN",
+    "dogumTarihi": 1988,
+    "dogumYeri": "YÜREGIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasan-aydin-1988-yuregir.jpeg"
+  },
+  {
+    "id": 6,
+    "ad": "Deniz",
+    "soyadi": "BÜYÜKÇELEBİ",
+    "dogumTarihi": 1978,
+    "dogumYeri": "NIZIP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/deniz-buyukcelebi-1978-nizip.jpeg"
+  },
+  {
+    "id": 7,
+    "ad": "Oguzhan",
+    "soyadi": "GÖZLEMECİOĞLU",
+    "dogumTarihi": 1980,
+    "dogumYeri": "ALTINDAG",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/oguzhan-gozlemecioglu-1980-altindag.jpeg"
+  },
+  {
+    "id": 8,
+    "ad": "Muhittin",
+    "soyadi": "BÜYÜKYANGÖZ",
+    "dogumTarihi": 1989,
+    "dogumYeri": "KARATAY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muhittin-buyukyangoz-1989-karatay.jpeg"
+  },
+  {
+    "id": 9,
+    "ad": "Ali",
+    "soyadi": "BORA",
+    "dogumTarihi": 1995,
+    "dogumYeri": "OSMANGAZI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-bora-1995-osmangazi.jpeg"
+  },
+  {
+    "id": 10,
+    "ad": "Mehmet Fatih",
+    "soyadi": "GÖGERCİN",
+    "dogumTarihi": 1983,
+    "dogumYeri": "HANI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-fatih-gogercin-1983-hani.jpeg"
+  },
+  {
+    "id": 11,
+    "ad": "Mehmet",
+    "soyadi": "GÖK",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ADANA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-gok-1977-adana.jpeg"
+  },
+  {
+    "id": 12,
+    "ad": "Talip",
+    "soyadi": "AKKURT",
+    "dogumTarihi": 1981,
+    "dogumYeri": "GAZIANTEP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/talip-akkurt-1981-gaziantep.jpeg"
+  },
+  {
+    "id": 13,
+    "ad": "İlyas",
+    "soyadi": "AYDIN",
+    "dogumTarihi": 1989,
+    "dogumYeri": "FATIH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ilyas-aydin-1989-fatih.jpeg"
+  },
+  {
+    "id": 14,
+    "ad": "Burak",
+    "soyadi": "HAZAR",
+    "dogumTarihi": 1992,
+    "dogumYeri": "SEYHAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/burak-hazar-1992-seyhan.jpeg"
+  },
+  {
+    "id": 15,
+    "ad": "İsmet",
+    "soyadi": "ALTIN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "MANAVGAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismet-altin-1968-manavgat.jpeg"
+  },
+  {
+    "id": 16,
+    "ad": "Mustafa",
+    "soyadi": "GÜNEŞ",
+    "dogumTarihi": 1970,
+    "dogumYeri": "AFSIN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-gunes-1970-afsin.jpeg"
+  },
+  {
+    "id": 17,
+    "ad": "Nusret",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1984,
+    "dogumYeri": "BESNI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nusret-yilmaz-1984-besni.jpeg"
+  },
+  {
+    "id": 18,
+    "ad": "Serdar",
+    "soyadi": "KAYA",
+    "dogumTarihi": 1955,
+    "dogumYeri": "ISTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/serdar-kaya-1955-istanbul.jpeg"
+  },
+  {
+    "id": 19,
+    "ad": "Musa",
+    "soyadi": "AŞOĞLU",
+    "dogumTarihi": 1961,
+    "dogumYeri": "HENDEK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/musa-asoglu-1961-hendek.jpeg"
+  },
+  {
+    "id": 20,
+    "ad": "Zerrin",
+    "soyadi": "SARI",
+    "dogumTarihi": 1963,
+    "dogumYeri": "OSMANIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zerrin-sari-1963-osmaniye.jpeg"
+  },
+  {
+    "id": 21,
+    "ad": "Faruk",
+    "soyadi": "EREREN",
+    "dogumTarihi": 1955,
+    "dogumYeri": "ÜNYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/faruk-ereren-1955-unye.jpeg"
+  },
+  {
+    "id": 22,
+    "ad": "Hüseyin Fevzi",
+    "soyadi": "TEKİN",
+    "dogumTarihi": 1961,
+    "dogumYeri": "ISTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-fevzi-tekin-1961-istanbul.jpeg"
+  },
+  {
+    "id": 23,
+    "ad": "Seher",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1959,
+    "dogumYeri": "KOZLU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/seher-demir-1959-kozlu.jpeg"
+  },
+  {
+    "id": 24,
+    "ad": "Murat",
+    "soyadi": "AŞIK",
+    "dogumTarihi": 1982,
+    "dogumYeri": "LANGENAU/ALMANYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-asik-1982-langenaualmanya.jpeg"
+  },
+  {
+    "id": 25,
+    "ad": "Nuri",
+    "soyadi": "ERYÜKSEL",
+    "dogumTarihi": 1958,
+    "dogumYeri": "GÜMÜSHACIKÖY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nuri-eryuksel-1958-gumushacikoy.jpeg"
+  },
+  {
+    "id": 26,
+    "ad": "Şadi Naci",
+    "soyadi": "ÖZPOLAT",
+    "dogumTarihi": 1969,
+    "dogumYeri": "KAHRAMANMARAS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sadi-naci-ozpolat-1969-kahramanmaras.jpeg"
+  },
+  {
+    "id": 27,
+    "ad": "Mesut",
+    "soyadi": "DEMİREL",
+    "dogumTarihi": 1955,
+    "dogumYeri": "ISTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mesut-demirel-1955-istanbul.jpeg"
+  },
+  {
+    "id": 28,
+    "ad": "Fehriye",
+    "soyadi": "ERDAL",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ADANA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fehriye-erdal-1977-adana.jpeg"
+  },
+  {
+    "id": 29,
+    "ad": "Kemal",
+    "soyadi": "KAYAR",
+    "dogumTarihi": 1961,
+    "dogumYeri": "DÜGER",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kemal-kayar-1961-duger.jpeg"
+  },
+  {
+    "id": 30,
+    "ad": "Aysel",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1975,
+    "dogumYeri": "AKÇADAG",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/aysel-yildirim-1975-akcadag.jpeg"
+  },
+  {
+    "id": 31,
+    "ad": "Ufuk",
+    "soyadi": "GÖLLÜ",
+    "dogumTarihi": 1983,
+    "dogumYeri": "MANAVGAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ufuk-gollu-1983-manavgat.jpeg"
+  },
+  {
+    "id": 32,
+    "ad": "Ecevit",
+    "soyadi": "PİROĞLU",
+    "dogumTarihi": 1974,
+    "dogumYeri": "HIRFANLI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ecevit-piroglu-1974-hirfanli.jpeg"
+  },
+  {
+    "id": 33,
+    "ad": "Mehmet",
+    "soyadi": "GÜNEŞ",
+    "dogumTarihi": 1951,
+    "dogumYeri": "ZARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-gunes-1951-zara.jpeg"
+  },
+  {
+    "id": 34,
+    "ad": "Recep",
+    "soyadi": "BALTACI",
+    "dogumTarihi": 1995,
+    "dogumYeri": "SEYHAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/recep-baltaci-1995-seyhan.jpeg"
+  },
+  {
+    "id": 35,
+    "ad": "Habib",
+    "soyadi": "AKDAŞ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "SAVUR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/habib-akdas-1973-savur.jpeg"
+  },
+  {
+    "id": 36,
+    "ad": "ERCİVAN",
+    "soyadi": "ÖZYER",
+    "dogumTarihi": 1973,
+    "dogumYeri": "AKŞEHİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ercivan-ozyer-1973-aksehir.jpeg"
+  },
+  {
+    "id": 37,
+    "ad": "FATİH",
+    "soyadi": "KAYALAR",
+    "dogumTarihi": 1979,
+    "dogumYeri": "TOKAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatih-kayalar-1979-tokat.jpeg"
+  },
+  {
+    "id": 38,
+    "ad": "HASAN TARIK",
+    "soyadi": "ŞEN",
+    "dogumTarihi": 1970,
+    "dogumYeri": "SAMSUN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasan-tarik-sen-1970-samsun.jpeg"
+  },
+  {
+    "id": 39,
+    "ad": "İSMAİL",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1974,
+    "dogumYeri": "BURSA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismail-yilmaz-1974-bursa.jpeg"
+  },
+  {
+    "id": 40,
+    "ad": "ABDULLAH",
+    "soyadi": "BAYRAM",
+    "dogumTarihi": 1988,
+    "dogumYeri": "KEŞAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdullah-bayram-1988-kesan.jpeg"
+  },
+  {
+    "id": 41,
+    "ad": "ADEM",
+    "soyadi": "AKINCI",
+    "dogumTarihi": 1967,
+    "dogumYeri": "GÖLHİSAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/adem-akinci-1967-golhisar.jpeg"
+  },
+  {
+    "id": 42,
+    "ad": "ALİ",
+    "soyadi": "AK",
+    "dogumTarihi": 1990,
+    "dogumYeri": "AMASRA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-ak-1990-amasra.jpeg"
+  },
+  {
+    "id": 43,
+    "ad": "BAYRAM",
+    "soyadi": "SAPMAZ",
+    "dogumTarihi": 1987,
+    "dogumYeri": "KANDIRA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bayram-sapmaz-1987-kandira.jpeg"
+  },
+  {
+    "id": 44,
+    "ad": "CİHAN",
+    "soyadi": "KAYA",
+    "dogumTarihi": 1986,
+    "dogumYeri": "AKÇADAĞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cihan-kaya-1986-akcadag.jpeg"
+  },
+  {
+    "id": 45,
+    "ad": "HAKAN",
+    "soyadi": "ALBAYRAK",
+    "dogumTarihi": 1990,
+    "dogumYeri": "KARTAL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hakan-albayrak-1990-kartal.jpeg"
+  },
+  {
+    "id": 46,
+    "ad": "HAKAN",
+    "soyadi": "ZAFER",
+    "dogumTarihi": 1978,
+    "dogumYeri": "KANGAL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hakan-zafer-1978-kangal.jpeg"
+  },
+  {
+    "id": 47,
+    "ad": "HARUN",
+    "soyadi": "KARİPÇİN",
+    "dogumTarihi": 1982,
+    "dogumYeri": "İZMİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/harun-karipcin-1982-izmir.jpeg"
+  },
+  {
+    "id": 48,
+    "ad": "HÜSEYİN",
+    "soyadi": "YÜCEER",
+    "dogumTarihi": 1991,
+    "dogumYeri": "ARAPGİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-yuceer-1991-arapgir.jpeg"
+  },
+  {
+    "id": 49,
+    "ad": "MEHMET ALİ ",
+    "soyadi": "BALKANLIOĞLU",
+    "dogumTarihi": 1982,
+    "dogumYeri": "SUNGURLU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-ali--balkanlioglu-1982-sungurlu.jpeg"
+  },
+  {
+    "id": 50,
+    "ad": "MEHMET YAVUZ",
+    "soyadi": "ŞEKER",
+    "dogumTarihi": 1969,
+    "dogumYeri": "TAVŞANLI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-yavuz-seker-1969-tavsanli.jpeg"
+  },
+  {
+    "id": 51,
+    "ad": "MUHAMMED BİLAL ",
+    "soyadi": "GENÇALİOĞLU",
+    "dogumTarihi": 1992,
+    "dogumYeri": "NÜRNBERG/ALMANYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muhammed-bilal--gencalioglu-1992-nurnbergalmanya.jpeg"
+  },
+  {
+    "id": 52,
+    "ad": "MUHAMMED FATİH",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1988,
+    "dogumYeri": "AKSARAY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muhammed-fatih-demir-1988-aksaray.jpeg"
+  },
+  {
+    "id": 53,
+    "ad": "MUHAMMET",
+    "soyadi": "AKTAŞ",
+    "dogumTarihi": 1982,
+    "dogumYeri": "SİMAV",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muhammet-aktas-1982-simav.jpeg"
+  },
+  {
+    "id": 54,
+    "ad": "MUSTAFA",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-yilmaz-1973-ankara.jpeg"
+  },
+  {
+    "id": 55,
+    "ad": "NURULLAH",
+    "soyadi": "PAK",
+    "dogumTarihi": 1989,
+    "dogumYeri": "KAHRAMANMARAŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nurullah-pak-1989-kahramanmaras.jpeg"
+  },
+  {
+    "id": 56,
+    "ad": "OSMAN",
+    "soyadi": "AKÇA",
+    "dogumTarihi": 1980,
+    "dogumYeri": "OVAÇİFTLİK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-akca-1980-ovaciftlik.jpeg"
+  },
+  {
+    "id": 57,
+    "ad": "OSMAN",
+    "soyadi": "KARYAĞDI",
+    "dogumTarihi": 1973,
+    "dogumYeri": "KIZILELMA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-karyagdi-1973-kizilelma.jpeg"
+  },
+  {
+    "id": 58,
+    "ad": "SAİD SIRRI",
+    "soyadi": "CANDAN",
+    "dogumTarihi": 1993,
+    "dogumYeri": "ÇANAKKALE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/said-sirri-candan-1993-canakkale.jpeg"
+  },
+  {
+    "id": 59,
+    "ad": "SALİH",
+    "soyadi": "ARSLAN",
+    "dogumTarihi": 1979,
+    "dogumYeri": "ALACA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/salih-arslan-1979-alaca.jpeg"
+  },
+  {
+    "id": 60,
+    "ad": "SEFA",
+    "soyadi": "SALMAN",
+    "dogumTarihi": 1988,
+    "dogumYeri": "NİĞDE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sefa-salman-1988-nigde.jpeg"
+  },
+  {
+    "id": 61,
+    "ad": "SİNAN",
+    "soyadi": "GENÇ",
+    "dogumTarihi": 1980,
+    "dogumYeri": "ALAŞEHİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sinan-genc-1980-alasehir.jpeg"
+  },
+  {
+    "id": 62,
+    "ad": "ÜMİT",
+    "soyadi": "POLAT",
+    "dogumTarihi": 1980,
+    "dogumYeri": "KULA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/umit-polat-1980-kula.jpeg"
+  },
+  {
+    "id": 63,
+    "ad": "VOLKAN",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1987,
+    "dogumYeri": "NİZİP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/volkan-yildirim-1987-nizip.jpeg"
+  },
+  {
+    "id": 64,
+    "ad": "YILMAZ",
+    "soyadi": "İNDİ",
+    "dogumTarihi": 1972,
+    "dogumYeri": "YUNAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yilmaz-indi-1972-yunak.jpeg"
+  },
+  {
+    "id": 65,
+    "ad": "YÜKSEL",
+    "soyadi": "ÇAYIROĞLU",
+    "dogumTarihi": 1982,
+    "dogumYeri": "MURATLAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yuksel-cayiroglu-1982-muratlar.jpeg"
+  },
+  {
+    "id": 66,
+    "ad": "ARİF",
+    "soyadi": "ERKOL",
+    "dogumTarihi": 1978,
+    "dogumYeri": "İZMİT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/arif-erkol-1978-izmit.jpeg"
+  },
+  {
+    "id": 67,
+    "ad": "Rasim",
+    "soyadi": "HANER",
+    "dogumTarihi": 1974,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/rasim-haner-1974-ankara.jpeg"
+  },
+  {
+    "id": 68,
+    "ad": "Muhammet",
+    "soyadi": "ÇAP",
+    "dogumTarihi": 1961,
+    "dogumYeri": "RİZE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muhammet-cap-1961-rize.jpeg"
+  },
+  {
+    "id": 69,
+    "ad": "Memet Emin",
+    "soyadi": "ÇOBAN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "BESNİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/memet-emin-coban-1974-besni.jpeg"
+  },
+  {
+    "id": 70,
+    "ad": "Ahmet",
+    "soyadi": "YALÇIN",
+    "dogumTarihi": 1984,
+    "dogumYeri": "BAKIRKÖY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-yalcin-1984-bakirkoy.jpeg"
+  },
+  {
+    "id": 71,
+    "ad": "MUHAMMED",
+    "soyadi": "ÇETİN",
+    "dogumTarihi": 1963,
+    "dogumYeri": "ESKİŞEHİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muhammed-cetin-1963-eskisehir.jpeg"
+  },
+  {
+    "id": 72,
+    "ad": "Ahmet Hamdi ",
+    "soyadi": "VURAL",
+    "dogumTarihi": 1970,
+    "dogumYeri": "LADİK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-hamdi--vural-1970-ladik.jpeg"
+  },
+  {
+    "id": 73,
+    "ad": "Mehmet Mesut ",
+    "soyadi": "ATA",
+    "dogumTarihi": 1966,
+    "dogumYeri": "BİSMİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-mesut--ata-1966-bismil.jpeg"
+  },
+  {
+    "id": 74,
+    "ad": "Kemal Cem ",
+    "soyadi": "GÜR",
+    "dogumTarihi": 1965,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kemal-cem--gur-1965-istanbul.jpeg"
+  },
+  {
+    "id": 75,
+    "ad": "Mehmet Vehbi",
+    "soyadi": "YAVUZLAR",
+    "dogumTarihi": 1957,
+    "dogumYeri": "ATABEY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-vehbi-yavuzlar-1957-atabey.jpeg"
+  },
+  {
+    "id": 76,
+    "ad": "Fatih",
+    "soyadi": "CİNGÖZ",
+    "dogumTarihi": 1972,
+    "dogumYeri": "KONYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatih-cingoz-1972-konya.jpeg"
+  },
+  {
+    "id": 77,
+    "ad": "Said",
+    "soyadi": "KAYA",
+    "dogumTarihi": 1964,
+    "dogumYeri": "OLUR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/said-kaya-1964-olur.jpeg"
+  },
+  {
+    "id": 78,
+    "ad": "Yakup",
+    "soyadi": "ARSLAN",
+    "dogumTarihi": 1969,
+    "dogumYeri": "SİVAS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yakup-arslan-1969-sivas.jpeg"
+  },
+  {
+    "id": 79,
+    "ad": "Mesut",
+    "soyadi": "LELİK",
+    "dogumTarihi": 1964,
+    "dogumYeri": "KIRIKHAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mesut-lelik-1964-kirikhan.jpeg"
+  },
+  {
+    "id": 80,
+    "ad": "Ali Can",
+    "soyadi": "ÖZTÜRK",
+    "dogumTarihi": 1977,
+    "dogumYeri": "BULANCAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-can-ozturk-1977-bulancak.jpeg"
+  },
+  {
+    "id": 81,
+    "ad": "Yaşar",
+    "soyadi": "SAVRAN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "SALİHLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yasar-savran-1972-salihli.jpeg"
+  },
+  {
+    "id": 82,
+    "ad": "Abdullah",
+    "soyadi": "YÜCA",
+    "dogumTarihi": 1972,
+    "dogumYeri": "BULANIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdullah-yuca-1972-bulanik.jpeg"
+  },
+  {
+    "id": 83,
+    "ad": "Mehmet",
+    "soyadi": "KOLUKISA",
+    "dogumTarihi": 1971,
+    "dogumYeri": "KAYSERİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-kolukisa-1971-kayseri.jpeg"
+  },
+  {
+    "id": 84,
+    "ad": "Mustafa",
+    "soyadi": "GÖKTEPE",
+    "dogumTarihi": 1977,
+    "dogumYeri": "BEYŞEHİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-goktepe-1977-beysehir.jpeg"
+  },
+  {
+    "id": 85,
+    "ad": "Zübeyir",
+    "soyadi": "GÜMÜŞ",
+    "dogumTarihi": 1974,
+    "dogumYeri": "PERŞEMBE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zubeyir-gumus-1974-persembe.jpeg"
+  },
+  {
+    "id": 86,
+    "ad": "Hamit",
+    "soyadi": "OLGUN",
+    "dogumTarihi": 1970,
+    "dogumYeri": "KELKİT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hamit-olgun-1970-kelkit.jpeg"
+  },
+  {
+    "id": 87,
+    "ad": "Bülent",
+    "soyadi": "İBİCİOĞLU",
+    "dogumTarihi": 1970,
+    "dogumYeri": "KADİRLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bulent-ibicioglu-1970-kadirli.jpeg"
+  },
+  {
+    "id": 88,
+    "ad": "Mustafa",
+    "soyadi": "GEZEN",
+    "dogumTarihi": 1980,
+    "dogumYeri": "ALBERTSLUND/DK.",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-gezen-1980-albertslunddk.jpeg"
+  },
+  {
+    "id": 89,
+    "ad": "Mehmet",
+    "soyadi": "ÜNALAN",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ŞARKIŞLA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-unalan-1973-sarkisla.jpeg"
+  },
+  {
+    "id": 90,
+    "ad": "Osman",
+    "soyadi": "SÖNMEZ",
+    "dogumTarihi": 1982,
+    "dogumYeri": "İLİÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-sonmez-1982-ilic.jpeg"
+  },
+  {
+    "id": 91,
+    "ad": "Fatih",
+    "soyadi": "GÜLLÜ",
+    "dogumTarihi": 1977,
+    "dogumYeri": "GAZİANTEP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatih-gullu-1977-gaziantep.jpeg"
+  },
+  {
+    "id": 92,
+    "ad": "İbrahim",
+    "soyadi": "AKTAŞ",
+    "dogumTarihi": 1969,
+    "dogumYeri": "İSPİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ibrahim-aktas-1969-ispir.jpeg"
+  },
+  {
+    "id": 93,
+    "ad": "Mehmet Lütfü",
+    "soyadi": "AYAL",
+    "dogumTarihi": 1975,
+    "dogumYeri": "ÇAYKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-lutfu-ayal-1975-caykara.jpeg"
+  },
+  {
+    "id": 94,
+    "ad": "Osman Ergenekon",
+    "soyadi": "KOÇ",
+    "dogumTarihi": 1975,
+    "dogumYeri": "DİYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-ergenekon-koc-1975-diyarbakir.jpeg"
+  },
+  {
+    "id": 95,
+    "ad": "Erol",
+    "soyadi": "KAHRIMAN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "BAYBURT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/erol-kahriman-1968-bayburt.jpeg"
+  },
+  {
+    "id": 96,
+    "ad": "Ercan",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1980,
+    "dogumYeri": "KAYNARCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ercan-yilmaz-1980-kaynarca.jpeg"
+  },
+  {
+    "id": 97,
+    "ad": "Yusuf",
+    "soyadi": "TEMİZKAN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "YAHYALI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yusuf-temizkan-1974-yahyali.jpeg"
+  },
+  {
+    "id": 98,
+    "ad": "Sıtkı",
+    "soyadi": "BAŞ",
+    "dogumTarihi": 1972,
+    "dogumYeri": "ÇİVRİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sitki-bas-1972-civril.jpeg"
+  },
+  {
+    "id": 99,
+    "ad": "Ferhat",
+    "soyadi": "DOĞRUTEKİN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "YOZGAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ferhat-dogrutekin-1968-yozgat.jpeg"
+  },
+  {
+    "id": 100,
+    "ad": "Resul",
+    "soyadi": "DİKMEN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "NİKSAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/resul-dikmen-1972-niksar.jpeg"
+  },
+  {
+    "id": 101,
+    "ad": "İsmail",
+    "soyadi": "KORKMAZ",
+    "dogumTarihi": 1967,
+    "dogumYeri": "NAZİLLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismail-korkmaz-1967-nazilli.jpeg"
+  },
+  {
+    "id": 102,
+    "ad": "Hüseyin",
+    "soyadi": "YAZIR",
+    "dogumTarihi": 1970,
+    "dogumYeri": "KEŞAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-yazir-1970-kesan.jpeg"
+  },
+  {
+    "id": 103,
+    "ad": "Yasin",
+    "soyadi": "KOÇ",
+    "dogumTarihi": 1984,
+    "dogumYeri": "ORTAKÖY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yasin-koc-1984-ortakoy.jpeg"
+  },
+  {
+    "id": 104,
+    "ad": "Salih",
+    "soyadi": "BEŞİR",
+    "dogumTarihi": 1966,
+    "dogumYeri": "ARSİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/salih-besir-1966-arsin.jpeg"
+  },
+  {
+    "id": 105,
+    "ad": "Fatih Mehmet",
+    "soyadi": "ÇAMLICA",
+    "dogumTarihi": 1970,
+    "dogumYeri": "MUŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatih-mehmet-camlica-1970-mus.jpeg"
+  },
+  {
+    "id": 106,
+    "ad": "Serkan",
+    "soyadi": "ÇAĞLAR",
+    "dogumTarihi": 1975,
+    "dogumYeri": "PINARBAŞI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/serkan-caglar-1975-pinarbasi.jpeg"
+  },
+  {
+    "id": 107,
+    "ad": "Ejder",
+    "soyadi": "KILIÇ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "KAHRAMANMARAŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ejder-kilic-1971-kahramanmaras.jpeg"
+  },
+  {
+    "id": 108,
+    "ad": "Zafer",
+    "soyadi": "KAHRAMAN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "UŞAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zafer-kahraman-1968-usak.jpeg"
+  },
+  {
+    "id": 109,
+    "ad": "Halil",
+    "soyadi": "ATAŞ",
+    "dogumTarihi": 1975,
+    "dogumYeri": "GÖRDES",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/halil-atas-1975-gordes.jpeg"
+  },
+  {
+    "id": 110,
+    "ad": "İlhan",
+    "soyadi": "PELTEK",
+    "dogumTarihi": 1979,
+    "dogumYeri": "GÖKSUN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ilhan-peltek-1979-goksun.jpeg"
+  },
+  {
+    "id": 111,
+    "ad": "İbrahim",
+    "soyadi": "KARAKOCA",
+    "dogumTarihi": 1971,
+    "dogumYeri": "MALATYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ibrahim-karakoca-1971-malatya.jpeg"
+  },
+  {
+    "id": 112,
+    "ad": "Turgay",
+    "soyadi": "ŞEN",
+    "dogumTarihi": 1970,
+    "dogumYeri": "AKSARAY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/turgay-sen-1970-aksaray.jpeg"
+  },
+  {
+    "id": 113,
+    "ad": "İsmail",
+    "soyadi": "ERDİL",
+    "dogumTarihi": 1975,
+    "dogumYeri": "HALFETİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismail-erdil-1975-halfeti.jpeg"
+  },
+  {
+    "id": 114,
+    "ad": "Mehmet Ali ",
+    "soyadi": "SAVRAN",
+    "dogumTarihi": 1973,
+    "dogumYeri": "EREĞLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-ali--savran-1973-eregli.jpeg"
+  },
+  {
+    "id": 115,
+    "ad": "İshak",
+    "soyadi": "AKAY",
+    "dogumTarihi": 1978,
+    "dogumYeri": "GEVAŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ishak-akay-1978-gevas.jpeg"
+  },
+  {
+    "id": 116,
+    "ad": "Halit",
+    "soyadi": "AYDIN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/halit-aydin-1972-midyat.jpeg"
+  },
+  {
+    "id": 117,
+    "ad": "Efkan",
+    "soyadi": "ÜNLÜ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/efkan-unlu-1973-istanbul.jpeg"
+  },
+  {
+    "id": 118,
+    "ad": "Medet",
+    "soyadi": "ÖNEL",
+    "dogumTarihi": 1974,
+    "dogumYeri": "ŞIHAHMETLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/medet-onel-1974-sihahmetli.jpeg"
+  },
+  {
+    "id": 119,
+    "ad": "Mehmet",
+    "soyadi": "SİNCER",
+    "dogumTarihi": 1978,
+    "dogumYeri": "İVRİNDİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-sincer-1978-ivrindi.jpeg"
+  },
+  {
+    "id": 120,
+    "ad": "Hamza",
+    "soyadi": "AKSOY",
+    "dogumTarihi": 1972,
+    "dogumYeri": "GAZİANTEP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hamza-aksoy-1972-gaziantep.jpeg"
+  },
+  {
+    "id": 121,
+    "ad": "Murat",
+    "soyadi": "KURT",
+    "dogumTarihi": 1980,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-kurt-1980-istanbul.jpeg"
+  },
+  {
+    "id": 122,
+    "ad": "Halil",
+    "soyadi": "ÇINAR",
+    "dogumTarihi": 1975,
+    "dogumYeri": "SORGUN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/halil-cinar-1975-sorgun.jpeg"
+  },
+  {
+    "id": 123,
+    "ad": "Hamit",
+    "soyadi": "ÇINAR",
+    "dogumTarihi": 1979,
+    "dogumYeri": "ŞARKIŞLA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hamit-cinar-1979-sarkisla.jpeg"
+  },
+  {
+    "id": 124,
+    "ad": "Bayram",
+    "soyadi": "SAATÇİ",
+    "dogumTarihi": 1970,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bayram-saatci-1970-istanbul.jpeg"
+  },
+  {
+    "id": 125,
+    "ad": "Yunus",
+    "soyadi": "AKYEL",
+    "dogumTarihi": 1982,
+    "dogumYeri": "YAYLADAĞI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yunus-akyel-1982-yayladagi.jpeg"
+  },
+  {
+    "id": 126,
+    "ad": "Şafak",
+    "soyadi": "DELİİSMAİL",
+    "dogumTarihi": 1972,
+    "dogumYeri": "RİZE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/safak-deliismail-1972-rize.jpeg"
+  },
+  {
+    "id": 127,
+    "ad": "Ahmet",
+    "soyadi": "KORKUT",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ULUS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-korkut-1977-ulus.jpeg"
+  },
+  {
+    "id": 128,
+    "ad": "Mustafa",
+    "soyadi": "GÜRHAN",
+    "dogumTarihi": 1970,
+    "dogumYeri": "KOZAĞAÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-gurhan-1970-kozagac.jpeg"
+  },
+  {
+    "id": 129,
+    "ad": "Hasan Hüseyin",
+    "soyadi": "KES",
+    "dogumTarihi": 1971,
+    "dogumYeri": "HADİM",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasan-huseyin-kes-1971-hadim.jpeg"
+  },
+  {
+    "id": 130,
+    "ad": "Fatih",
+    "soyadi": "GÜRSOY",
+    "dogumTarihi": 1969,
+    "dogumYeri": "ADANA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatih-gursoy-1969-adana.jpeg"
+  },
+  {
+    "id": 131,
+    "ad": "İnanç",
+    "soyadi": "ÇİFTÇİ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/inanc-ciftci-1971-ankara.jpeg"
+  },
+  {
+    "id": 132,
+    "ad": "Ertürk",
+    "soyadi": "ŞAHİN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "AKDAĞ MADENİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/erturk-sahin-1976-akdag-madeni.jpeg"
+  },
+  {
+    "id": 133,
+    "ad": "Adnan",
+    "soyadi": "HOŞOĞLU",
+    "dogumTarihi": 1966,
+    "dogumYeri": "KÖPRÜBAŞI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/adnan-hosoglu-1966-koprubasi.jpeg"
+  },
+  {
+    "id": 134,
+    "ad": "Murat",
+    "soyadi": "KOÇ",
+    "dogumTarihi": 1977,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-koc-1977-istanbul.jpeg"
+  },
+  {
+    "id": 135,
+    "ad": "Feyzullah",
+    "soyadi": "DURNA",
+    "dogumTarihi": 1977,
+    "dogumYeri": "REFAHİYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/feyzullah-durna-1977-refahiye.jpeg"
+  },
+  {
+    "id": 136,
+    "ad": "Mustafa",
+    "soyadi": "KARACAN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "AKSARAY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-karacan-1974-aksaray.jpeg"
+  },
+  {
+    "id": 137,
+    "ad": "Kenan",
+    "soyadi": "AVŞAR",
+    "dogumTarihi": 1971,
+    "dogumYeri": "ARDAHAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kenan-avsar-1971-ardahan.jpeg"
+  },
+  {
+    "id": 138,
+    "ad": "Sadi",
+    "soyadi": "ŞEN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "SUSURLUK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sadi-sen-1976-susurluk.jpeg"
+  },
+  {
+    "id": 139,
+    "ad": "Akif",
+    "soyadi": "KARA",
+    "dogumTarihi": 1973,
+    "dogumYeri": "GÖKSUN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/akif-kara-1973-goksun.jpeg"
+  },
+  {
+    "id": 140,
+    "ad": "Sedat",
+    "soyadi": "CAN",
+    "dogumTarihi": 1977,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sedat-can-1977-istanbul.jpeg"
+  },
+  {
+    "id": 141,
+    "ad": "Burhan",
+    "soyadi": "ÇIKILI",
+    "dogumTarihi": 1988,
+    "dogumYeri": "KAYSERİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/burhan-cikili-1988-kayseri.jpeg"
+  },
+  {
+    "id": 142,
+    "ad": "Durmuş",
+    "soyadi": "DOĞAN",
+    "dogumTarihi": 1986,
+    "dogumYeri": "ERDEMLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/durmus-dogan-1986-erdemli.jpeg"
+  },
+  {
+    "id": 143,
+    "ad": "İsa",
+    "soyadi": "OTCU",
+    "dogumTarihi": 1972,
+    "dogumYeri": "FELDKİROHAN/ALMANYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/isa-otcu-1972-feldkirohanalmanya.jpeg"
+  },
+  {
+    "id": 144,
+    "ad": "Gökhan",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1975,
+    "dogumYeri": "KELKİT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gokhan-demir-1975-kelkit.jpeg"
+  },
+  {
+    "id": 145,
+    "ad": "Süleyman",
+    "soyadi": "AKDEMİR",
+    "dogumTarihi": 1967,
+    "dogumYeri": "NİĞDE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-akdemir-1967-nigde.jpeg"
+  },
+  {
+    "id": 146,
+    "ad": "Aydın",
+    "soyadi": "ERDEM",
+    "dogumTarihi": 1972,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/aydin-erdem-1972-ankara.jpeg"
+  },
+  {
+    "id": 147,
+    "ad": "Murat",
+    "soyadi": "KÜÇÜKDÜĞENCİ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "MUSTAFAKEMALPAŞA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-kucukdugenci-1971-mustafakemalpasa.jpeg"
+  },
+  {
+    "id": 148,
+    "ad": "Mehmet",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "SARAYÖNÜ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-yilmaz-1971-sarayonu.jpeg"
+  },
+  {
+    "id": 149,
+    "ad": "Yalçın",
+    "soyadi": "SOLAK",
+    "dogumTarihi": 1973,
+    "dogumYeri": "HAYDARPAŞA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yalcin-solak-1973-haydarpasa.jpeg"
+  },
+  {
+    "id": 150,
+    "ad": "Göksal",
+    "soyadi": "ÇAVDAR O.",
+    "dogumTarihi": 1969,
+    "dogumYeri": "VAKFIKEBİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/goksal-cavdar-o-1969-vakfikebir.jpeg"
+  },
+  {
+    "id": 151,
+    "ad": "Osman",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1979,
+    "dogumYeri": "KORKUTELİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-yildirim-1979-korkuteli.jpeg"
+  },
+  {
+    "id": 152,
+    "ad": "Mahmut Sezer ",
+    "soyadi": "ÇAKMAK",
+    "dogumTarihi": 1975,
+    "dogumYeri": "POZANTI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mahmut-sezer--cakmak-1975-pozanti.jpeg"
+  },
+  {
+    "id": 153,
+    "ad": "Soner",
+    "soyadi": "TEKER",
+    "dogumTarihi": 1976,
+    "dogumYeri": "ÇEKEREK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/soner-teker-1976-cekerek.jpeg"
+  },
+  {
+    "id": 154,
+    "ad": "Halil",
+    "soyadi": "HARDAL",
+    "dogumTarihi": 1967,
+    "dogumYeri": "MECİTÖZÜ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/halil-hardal-1967-mecitozu.jpeg"
+  },
+  {
+    "id": 155,
+    "ad": "Nurettin",
+    "soyadi": "KAYA",
+    "dogumTarihi": 1972,
+    "dogumYeri": "MUDURNU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nurettin-kaya-1972-mudurnu.jpeg"
+  },
+  {
+    "id": 156,
+    "ad": "Çetin",
+    "soyadi": "SABUNCİ",
+    "dogumTarihi": 1976,
+    "dogumYeri": "BORNOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cetin-sabunci-1976-bornova.jpeg"
+  },
+  {
+    "id": 157,
+    "ad": "Ufuk",
+    "soyadi": "CİVELEK",
+    "dogumTarihi": 1966,
+    "dogumYeri": "ALAÇAM",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ufuk-civelek-1966-alacam.jpeg"
+  },
+  {
+    "id": 158,
+    "ad": "Yasir Adil",
+    "soyadi": "ELDEM",
+    "dogumTarihi": 1981,
+    "dogumYeri": "KULA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yasir-adil-eldem-1981-kula.jpeg"
+  },
+  {
+    "id": 159,
+    "ad": "Kadir",
+    "soyadi": "ARSLAN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "ÇAL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kadir-arslan-1976-cal.jpeg"
+  },
+  {
+    "id": 160,
+    "ad": "Mehmet Emin ",
+    "soyadi": "KUŞCU",
+    "dogumTarihi": 1982,
+    "dogumYeri": "KAYSERİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-emin--kuscu-1982-kayseri.jpeg"
+  },
+  {
+    "id": 161,
+    "ad": "Abdul Celil ",
+    "soyadi": "GELİM",
+    "dogumTarihi": 1974,
+    "dogumYeri": "KUMRU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdul-celil--gelim-1974-kumru.jpeg"
+  },
+  {
+    "id": 162,
+    "ad": "Abdulkadir",
+    "soyadi": "KARABELEN",
+    "dogumTarihi": 1982,
+    "dogumYeri": "BELÇİKA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdulkadir-karabelen-1982-belcika.jpeg"
+  },
+  {
+    "id": 163,
+    "ad": "Ahmet",
+    "soyadi": "AKISKALİ",
+    "dogumTarihi": 1969,
+    "dogumYeri": "İNEGÖL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-akiskali-1969-inegol.jpeg"
+  },
+  {
+    "id": 164,
+    "ad": "Ali",
+    "soyadi": "KÖKTEN",
+    "dogumTarihi": 1967,
+    "dogumYeri": "YALVAÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-kokten-1967-yalvac.jpeg"
+  },
+  {
+    "id": 165,
+    "ad": "Atila",
+    "soyadi": "ÖZTÜRK",
+    "dogumTarihi": 1972,
+    "dogumYeri": "SUSUZ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/atila-ozturk-1972-susuz.jpeg"
+  },
+  {
+    "id": 166,
+    "ad": "Atilla Yusuf",
+    "soyadi": "GÜLEKER",
+    "dogumTarihi": 1969,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/atilla-yusuf-guleker-1969-istanbul.jpeg"
+  },
+  {
+    "id": 167,
+    "ad": "Bülent",
+    "soyadi": "BİŞER",
+    "dogumTarihi": 1973,
+    "dogumYeri": "BOLVADİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bulent-biser-1973-bolvadin.jpeg"
+  },
+  {
+    "id": 168,
+    "ad": "Cemil",
+    "soyadi": "ÖNAL",
+    "dogumTarihi": 1974,
+    "dogumYeri": "MALATYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cemil-onal-1974-malatya.jpeg"
+  },
+  {
+    "id": 169,
+    "ad": "Ebubekir",
+    "soyadi": "IŞIK",
+    "dogumTarihi": 1988,
+    "dogumYeri": "PÜTÜRGE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ebubekir-isik-1988-puturge.jpeg"
+  },
+  {
+    "id": 170,
+    "ad": "Engin",
+    "soyadi": "YAŞMUN",
+    "dogumTarihi": 1979,
+    "dogumYeri": "KAHRAMANMARAŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/engin-yasmun-1979-kahramanmaras.jpeg"
+  },
+  {
+    "id": 171,
+    "ad": "Faruk",
+    "soyadi": "ZÜNBÜL",
+    "dogumTarihi": 1960,
+    "dogumYeri": "ANTALYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/faruk-zunbul-1960-antalya.jpeg"
+  },
+  {
+    "id": 172,
+    "ad": "Fatih Uğur",
+    "soyadi": "ÖZORPAK",
+    "dogumTarihi": 1979,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatih-ugur-ozorpak-1979-istanbul.jpeg"
+  },
+  {
+    "id": 173,
+    "ad": "Hüseyin",
+    "soyadi": "MERCAN",
+    "dogumTarihi": 1981,
+    "dogumYeri": "SİVAS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-mercan-1981-sivas.jpeg"
+  },
+  {
+    "id": 174,
+    "ad": "İsmail",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1961,
+    "dogumYeri": "BURSA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismail-yilmaz-1961-bursa.jpeg"
+  },
+  {
+    "id": 175,
+    "ad": "Mahmut",
+    "soyadi": "BAL",
+    "dogumTarihi": 1963,
+    "dogumYeri": "AKDAĞMADENİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mahmut-bal-1963-akdagmadeni.jpeg"
+  },
+  {
+    "id": 176,
+    "ad": "Mehmet",
+    "soyadi": "KAYAR",
+    "dogumTarihi": 1986,
+    "dogumYeri": "SAKARYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-kayar-1986-sakarya.jpeg"
+  },
+  {
+    "id": 177,
+    "ad": "Murat",
+    "soyadi": "KALA",
+    "dogumTarihi": 1983,
+    "dogumYeri": "ADANA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-kala-1983-adana.jpeg"
+  },
+  {
+    "id": 178,
+    "ad": "Murat",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1972,
+    "dogumYeri": "BANDIRMA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-yildirim-1972-bandirma.jpeg"
+  },
+  {
+    "id": 179,
+    "ad": "Mustafa",
+    "soyadi": "İLHAN",
+    "dogumTarihi": 1979,
+    "dogumYeri": "HAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-ilhan-1979-han.jpeg"
+  },
+  {
+    "id": 180,
+    "ad": "Sadrettin",
+    "soyadi": "ÇELİK",
+    "dogumTarihi": 1971,
+    "dogumYeri": "YALOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sadrettin-celik-1971-yalova.jpeg"
+  },
+  {
+    "id": 181,
+    "ad": "Sunay",
+    "soyadi": "ELMAS",
+    "dogumTarihi": 1971,
+    "dogumYeri": "HASKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sunay-elmas-1971-haskova.jpeg"
+  },
+  {
+    "id": 182,
+    "ad": "Şaban",
+    "soyadi": "KÜCÜKZOROGLU",
+    "dogumTarihi": 1974,
+    "dogumYeri": "ESKİPAZAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/saban-kucukzoroglu-1974-eskipazar.jpeg"
+  },
+  {
+    "id": 183,
+    "ad": "Yavuz",
+    "soyadi": "AVCI",
+    "dogumTarihi": 1972,
+    "dogumYeri": "DİNAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yavuz-avci-1972-dinar.jpeg"
+  },
+  {
+    "id": 184,
+    "ad": "Yunus",
+    "soyadi": "AKYÜZ",
+    "dogumTarihi": 1977,
+    "dogumYeri": "İZMİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yunus-akyuz-1977-izmir.jpeg"
+  },
+  {
+    "id": 185,
+    "ad": "Zafer",
+    "soyadi": "BAY",
+    "dogumTarihi": 1973,
+    "dogumYeri": "DENİZLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zafer-bay-1973-denizli.jpeg"
+  },
+  {
+    "id": 186,
+    "ad": "Zafer",
+    "soyadi": "SÜSLÜ",
+    "dogumTarihi": 1974,
+    "dogumYeri": "PAZAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zafer-suslu-1974-pazar.jpeg"
+  },
+  {
+    "id": 187,
+    "ad": "Zekeriya",
+    "soyadi": "ÖZYÜREK",
+    "dogumTarihi": 1970,
+    "dogumYeri": "LÜLEBURGAZ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zekeriya-ozyurek-1970-luleburgaz.jpeg"
+  },
+  {
+    "id": 188,
+    "ad": "Cevheri",
+    "soyadi": "GÜVEN",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ERZURUM",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cevheri-guven-1977-erzurum.jpeg"
+  },
+  {
+    "id": 189,
+    "ad": "Said",
+    "soyadi": "SEFA",
+    "dogumTarihi": 1978,
+    "dogumYeri": "MALAZGİRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/said-sefa-1978-malazgirt.jpeg"
+  },
+  {
+    "id": 190,
+    "ad": "Süleyman",
+    "soyadi": "SARGIN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "KEMALPAŞA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-sargin-1974-kemalpasa.jpeg"
+  },
+  {
+    "id": 191,
+    "ad": "Ahmet Şaban",
+    "soyadi": "KESKİN",
+    "dogumTarihi": 1966,
+    "dogumYeri": "SARISÖĞÜT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-saban-keskin-1966-sarisogut.jpeg"
+  },
+  {
+    "id": 192,
+    "ad": "Ali ",
+    "soyadi": "DEMİREL",
+    "dogumTarihi": 1974,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali--demirel-1974-istanbul.jpeg"
+  },
+  {
+    "id": 193,
+    "ad": "Enes",
+    "soyadi": "KANTER",
+    "dogumTarihi": 1992,
+    "dogumYeri": "ZÜRİCH/İSVİÇRE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/enes-kanter-1992-zurichisvicre.jpeg"
+  },
+  {
+    "id": 194,
+    "ad": "Hüseyin",
+    "soyadi": "YAĞMUR",
+    "dogumTarihi": 1965,
+    "dogumYeri": "KAHRAMANMARAŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-yagmur-1965-kahramanmaras.jpeg"
+  },
+  {
+    "id": 195,
+    "ad": "Kenan",
+    "soyadi": "KURTOĞLU",
+    "dogumTarihi": 1978,
+    "dogumYeri": "VEZİRKÖPRÜ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kenan-kurtoglu-1978-vezirkopru.jpeg"
+  },
+  {
+    "id": 196,
+    "ad": "Derviş",
+    "soyadi": "OK",
+    "dogumTarihi": 1965,
+    "dogumYeri": "AKSARAY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/dervis-ok-1965-aksaray.jpeg"
+  },
+  {
+    "id": 197,
+    "ad": "Sabahattin",
+    "soyadi": "GÜNAY",
+    "dogumTarihi": 1972,
+    "dogumYeri": "ÇÜNGÜS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sabahattin-gunay-1972-cungus.jpeg"
+  },
+  {
+    "id": 198,
+    "ad": "Ali",
+    "soyadi": "KALYONCU",
+    "dogumTarihi": 1971,
+    "dogumYeri": "IZMIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-kalyoncu-1971-izmir.jpeg"
+  },
+  {
+    "id": 199,
+    "ad": "İbrahim",
+    "soyadi": "BİÇAKCİ",
+    "dogumTarihi": 1977,
+    "dogumYeri": "HORASAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ibrahim-bicakci-1977-horasan.jpeg"
+  },
+  {
+    "id": 200,
+    "ad": "Nöman",
+    "soyadi": "GÜLEN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "HASANKALE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/noman-gulen-1968-hasankale.jpeg"
+  },
+  {
+    "id": 201,
+    "ad": "Mesih",
+    "soyadi": "GÜLEN",
+    "dogumTarihi": 1944,
+    "dogumYeri": "HASANKALE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mesih-gulen-1944-hasankale.jpeg"
+  },
+  {
+    "id": 202,
+    "ad": "Naci",
+    "soyadi": "GÜVEN",
+    "dogumTarihi": 1970,
+    "dogumYeri": "HASANKALE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/naci-guven-1970-hasankale.jpeg"
+  },
+  {
+    "id": 203,
+    "ad": "Türk İslam",
+    "soyadi": "KOCAMAN",
+    "dogumTarihi": 1973,
+    "dogumYeri": "GÜMÜŞHANE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/turk-islam-kocaman-1973-gumushane.jpeg"
+  },
+  {
+    "id": 204,
+    "ad": "Yüksel Alp",
+    "soyadi": "ASLANDOĞAN",
+    "dogumTarihi": 1967,
+    "dogumYeri": "MANİSA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yuksel-alp-aslandogan-1967-manisa.jpeg"
+  },
+  {
+    "id": 205,
+    "ad": "Cengiz",
+    "soyadi": "ÖZKAN",
+    "dogumTarihi": 1966,
+    "dogumYeri": "UŞAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cengiz-ozkan-1966-usak.jpeg"
+  },
+  {
+    "id": 206,
+    "ad": "Hasan",
+    "soyadi": "ÇİÇEK",
+    "dogumTarihi": 1975,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasan-cicek-1975-ankara.jpeg"
+  },
+  {
+    "id": 207,
+    "ad": "Ömer Atalay",
+    "soyadi": "YÜREKLİ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "EREĞLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/omer-atalay-yurekli-1973-eregli.jpeg"
+  },
+  {
+    "id": 208,
+    "ad": "Vahit",
+    "soyadi": "PEKTAŞ",
+    "dogumTarihi": 1966,
+    "dogumYeri": "GÜNEY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/vahit-pektas-1966-guney.jpeg"
+  },
+  {
+    "id": 209,
+    "ad": "Bekir",
+    "soyadi": "ÇELEBİ",
+    "dogumTarihi": 1978,
+    "dogumYeri": "MUSTAFAKEMALPAŞA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bekir-celebi-1978-mustafakemalpasa.jpeg"
+  },
+  {
+    "id": 210,
+    "ad": "Hüseyin",
+    "soyadi": "YURDAGÜL",
+    "dogumTarihi": 1972,
+    "dogumYeri": "KAHRAMANMARAŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-yurdagul-1972-kahramanmaras.jpeg"
+  },
+  {
+    "id": 211,
+    "ad": "Kemal",
+    "soyadi": "ÖZKAN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "BANDIRMA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kemal-ozkan-1972-bandirma.jpeg"
+  },
+  {
+    "id": 212,
+    "ad": "Mehmet",
+    "soyadi": "AYVA",
+    "dogumTarihi": 1976,
+    "dogumYeri": "KÜTAHYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-ayva-1976-kutahya.jpeg"
+  },
+  {
+    "id": 213,
+    "ad": "Mustafa",
+    "soyadi": "CAN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "GAZİOSMANPAŞA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-can-1972-gaziosmanpasa.jpeg"
+  },
+  {
+    "id": 214,
+    "ad": "Ömer",
+    "soyadi": "EKİNCİ",
+    "dogumTarihi": 1969,
+    "dogumYeri": "REFAHİYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/omer-ekinci-1969-refahiye.jpeg"
+  },
+  {
+    "id": 215,
+    "ad": "Ömer",
+    "soyadi": "ŞENLİLER",
+    "dogumTarihi": 1970,
+    "dogumYeri": "YOZGAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/omer-senliler-1970-yozgat.jpeg"
+  },
+  {
+    "id": 216,
+    "ad": "Ramazan",
+    "soyadi": "AYGÜN",
+    "dogumTarihi": 1980,
+    "dogumYeri": "PÜTÜRGE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ramazan-aygun-1980-puturge.jpeg"
+  },
+  {
+    "id": 217,
+    "ad": "Recep",
+    "soyadi": "ÖZKAN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "KEŞAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/recep-ozkan-1968-kesan.jpeg"
+  },
+  {
+    "id": 218,
+    "ad": "Semih",
+    "soyadi": "ERDUR",
+    "dogumTarihi": 1971,
+    "dogumYeri": "GEYVE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/semih-erdur-1971-geyve.jpeg"
+  },
+  {
+    "id": 219,
+    "ad": "Sinan",
+    "soyadi": "BEŞİKÇİ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "İSTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sinan-besikci-1971-istanbul.jpeg"
+  },
+  {
+    "id": 220,
+    "ad": "Ahmet",
+    "soyadi": "ÇAĞLAYAN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "İSPİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-caglayan-1968-ispir.jpeg"
+  },
+  {
+    "id": 221,
+    "ad": "Cüneyd",
+    "soyadi": "TERZİOĞLU",
+    "dogumTarihi": 1965,
+    "dogumYeri": "BURHANİYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cuneyd-terzioglu-1965-burhaniye.jpeg"
+  },
+  {
+    "id": 222,
+    "ad": "Ridvan",
+    "soyadi": "KIZILTEPE",
+    "dogumTarihi": 1954,
+    "dogumYeri": "İZMİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ridvan-kiziltepe-1954-izmir.jpeg"
+  },
+  {
+    "id": 223,
+    "ad": "Nurullah",
+    "soyadi": "ALBAYRAK",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nurullah-albayrak-1973-ankara.jpeg"
+  },
+  {
+    "id": 224,
+    "ad": "Adem",
+    "soyadi": "KALAÇ",
+    "dogumTarihi": 1964,
+    "dogumYeri": "BUCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/adem-kalac-1964-buca.jpeg"
+  },
+  {
+    "id": 225,
+    "ad": "Gültekin",
+    "soyadi": "BİBAR",
+    "dogumTarihi": 1975,
+    "dogumYeri": "ELAZIĞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gultekin-bibar-1975-elazig.jpeg"
+  },
+  {
+    "id": 226,
+    "ad": "Cengiz",
+    "soyadi": "TÜCCAR",
+    "dogumTarihi": 1966,
+    "dogumYeri": "ARTOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cengiz-tuccar-1966-artova.jpeg"
+  },
+  {
+    "id": 227,
+    "ad": "Mehmet",
+    "soyadi": "ERGENE",
+    "dogumTarihi": 1963,
+    "dogumYeri": "SERGEN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-ergene-1963-sergen.jpeg"
+  },
+  {
+    "id": 228,
+    "ad": "Muaz Bin Cebel",
+    "soyadi": "GÜLEN",
+    "dogumTarihi": 1975,
+    "dogumYeri": "ERZURUM",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muaz-bin-cebel-gulen-1975-erzurum.jpeg"
+  },
+  {
+    "id": 229,
+    "ad": "Osman",
+    "soyadi": "ŞİMŞEK",
+    "dogumTarihi": 1972,
+    "dogumYeri": "ALMUS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-simsek-1972-almus.jpeg"
+  },
+  {
+    "id": 230,
+    "ad": "Ahmed Said",
+    "soyadi": "TUNÇPİNAR",
+    "dogumTarihi": 1974,
+    "dogumYeri": "BAYBURT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmed-said-tuncpinar-1974-bayburt.jpeg"
+  },
+  {
+    "id": 231,
+    "ad": "Ergün",
+    "soyadi": "ÇAPAN",
+    "dogumTarihi": 1966,
+    "dogumYeri": "ÇİFTELER",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ergun-capan-1966-cifteler.jpeg"
+  },
+  {
+    "id": 232,
+    "ad": "Yılmaz",
+    "soyadi": "YİĞİT",
+    "dogumTarihi": 1965,
+    "dogumYeri": "TUNÇBİLEK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yilmaz-yigit-1965-tuncbilek.jpeg"
+  },
+  {
+    "id": 233,
+    "ad": "Muhammed",
+    "soyadi": "YEŞİLYURT",
+    "dogumTarihi": 1988,
+    "dogumYeri": "SALIPAZARI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muhammed-yesilyurt-1988-salipazari.jpeg"
+  },
+  {
+    "id": 234,
+    "ad": "Cemal",
+    "soyadi": "KARAATA",
+    "dogumTarihi": 1970,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cemal-karaata-1970-ankara.jpeg"
+  },
+  {
+    "id": 235,
+    "ad": "Abdulletif",
+    "soyadi": "TAPKAN",
+    "dogumTarihi": 1962,
+    "dogumYeri": "NUSAYBIN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdulletif-tapkan-1962-nusaybin.jpeg"
+  },
+  {
+    "id": 236,
+    "ad": "Adem",
+    "soyadi": "ÖNAL",
+    "dogumTarihi": 1969,
+    "dogumYeri": "KIRIKKALE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/adem-onal-1969-kirikkale.jpeg"
+  },
+  {
+    "id": 237,
+    "ad": "Süleyman",
+    "soyadi": "BAHÇECİ",
+    "dogumTarihi": 1970,
+    "dogumYeri": "ULA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-bahceci-1970-ula.jpeg"
+  },
+  {
+    "id": 238,
+    "ad": "İsmail",
+    "soyadi": "UZUN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "DERELI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismail-uzun-1976-dereli.jpeg"
+  },
+  {
+    "id": 239,
+    "ad": "İsmail",
+    "soyadi": "NAZLI",
+    "dogumTarihi": 1974,
+    "dogumYeri": "KÜTAHYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismail-nazli-1974-kutahya.jpeg"
+  },
+  {
+    "id": 240,
+    "ad": "Hüseyin",
+    "soyadi": "KARAKUŞ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "ÇÜNGÜS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-karakus-1971-cungus.jpeg"
+  },
+  {
+    "id": 241,
+    "ad": "Ersin",
+    "soyadi": "KARAOĞLAN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "ÜNYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ersin-karaoglan-1974-unye.jpeg"
+  },
+  {
+    "id": 242,
+    "ad": "Hikmet",
+    "soyadi": "ÇOBAN",
+    "dogumTarihi": 1964,
+    "dogumYeri": "SIVRIHISAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hikmet-coban-1964-sivrihisar.jpeg"
+  },
+  {
+    "id": 243,
+    "ad": "Bilal",
+    "soyadi": "KARADUMAN",
+    "dogumTarihi": 1973,
+    "dogumYeri": "KÖYCEGIZ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bilal-karaduman-1973-koycegiz.jpeg"
+  },
+  {
+    "id": 244,
+    "ad": "Süleyman",
+    "soyadi": "TİFTİK",
+    "dogumTarihi": 1965,
+    "dogumYeri": "ÜSKÜDAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-tiftik-1965-uskudar.jpeg"
+  },
+  {
+    "id": 245,
+    "ad": "Talip",
+    "soyadi": "BÜYÜK",
+    "dogumTarihi": 1968,
+    "dogumYeri": "ÇAYKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/talip-buyuk-1968-caykara.jpeg"
+  },
+  {
+    "id": 246,
+    "ad": "İsmet",
+    "soyadi": "MACİT",
+    "dogumTarihi": 1974,
+    "dogumYeri": "GEMEREK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismet-macit-1974-gemerek.jpeg"
+  },
+  {
+    "id": 247,
+    "ad": "İrfan",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1953,
+    "dogumYeri": "KARSIYAKA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/irfan-yilmaz-1953-karsiyaka.jpeg"
+  },
+  {
+    "id": 248,
+    "ad": "Mustafa",
+    "soyadi": "EKER",
+    "dogumTarihi": 1974,
+    "dogumYeri": "ÇAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-eker-1974-can.jpeg"
+  },
+  {
+    "id": 249,
+    "ad": "Mehmet Hanefi",
+    "soyadi": "SÖZEN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "BAYINDIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-hanefi-sozen-1972-bayindir.jpeg"
+  },
+  {
+    "id": 250,
+    "ad": "Recep",
+    "soyadi": "UZUNALLI",
+    "dogumTarihi": 1954,
+    "dogumYeri": "MENEMEN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/recep-uzunalli-1954-menemen.jpeg"
+  },
+  {
+    "id": 251,
+    "ad": "Bedrettin",
+    "soyadi": "SUATA",
+    "dogumTarihi": 1970,
+    "dogumYeri": "TOKAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bedrettin-suata-1970-tokat.jpeg"
+  },
+  {
+    "id": 252,
+    "ad": "Ünal",
+    "soyadi": "TOŞUR",
+    "dogumTarihi": 1963,
+    "dogumYeri": "BELPINAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/unal-tosur-1963-belpinar.jpeg"
+  },
+  {
+    "id": 253,
+    "ad": "Fesih",
+    "soyadi": "ÇELİK",
+    "dogumTarihi": 1970,
+    "dogumYeri": "VARTO",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fesih-celik-1970-varto.jpeg"
+  },
+  {
+    "id": 254,
+    "ad": "Necmettin",
+    "soyadi": "ESKİCİ",
+    "dogumTarihi": 1979,
+    "dogumYeri": "ADIYAMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/necmettin-eskici-1979-adiyaman.jpeg"
+  },
+  {
+    "id": 255,
+    "ad": "Turğut",
+    "soyadi": "KARABULUT",
+    "dogumTarihi": 1969,
+    "dogumYeri": "BAYBURT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/turgut-karabulut-1969-bayburt.jpeg"
+  },
+  {
+    "id": 256,
+    "ad": "Recep",
+    "soyadi": "ÇİFTÇİ",
+    "dogumTarihi": 1959,
+    "dogumYeri": "SILVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/recep-ciftci-1959-silvan.jpeg"
+  },
+  {
+    "id": 257,
+    "ad": "Ekrem",
+    "soyadi": "DUMANLI",
+    "dogumTarihi": 1964,
+    "dogumYeri": "YOZGAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ekrem-dumanli-1964-yozgat.jpeg"
+  },
+  {
+    "id": 258,
+    "ad": "Muammer",
+    "soyadi": "TÜRKYILMAZ",
+    "dogumTarihi": 1946,
+    "dogumYeri": "KUYUCAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muammer-turkyilmaz-1946-kuyucak.jpeg"
+  },
+  {
+    "id": 259,
+    "ad": "Adnan",
+    "soyadi": "AZAK",
+    "dogumTarihi": 1969,
+    "dogumYeri": "ISTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/adnan-azak-1969-istanbul.jpeg"
+  },
+  {
+    "id": 260,
+    "ad": "Osman Hilmi",
+    "soyadi": "ÖZDİL",
+    "dogumTarihi": 1968,
+    "dogumYeri": "KOZAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-hilmi-ozdil-1968-kozan.jpeg"
+  },
+  {
+    "id": 261,
+    "ad": "Necdet",
+    "soyadi": "BAŞARAN",
+    "dogumTarihi": 1945,
+    "dogumYeri": "ALACA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/necdet-basaran-1945-alaca.jpeg"
+  },
+  {
+    "id": 262,
+    "ad": "Kudret",
+    "soyadi": "ÜNAL",
+    "dogumTarihi": 1948,
+    "dogumYeri": "SEREFLIKOÇHISAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kudret-unal-1948-sereflikochisar.jpeg"
+  },
+  {
+    "id": 263,
+    "ad": "Murat",
+    "soyadi": "KARABULUT",
+    "dogumTarihi": 1968,
+    "dogumYeri": "ELAZIG",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-karabulut-1968-elazig.jpeg"
+  },
+  {
+    "id": 264,
+    "ad": "Rıdvan",
+    "soyadi": "AKOVALI",
+    "dogumTarihi": 1966,
+    "dogumYeri": "ADAPAZARI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ridvan-akovali-1966-adapazari.jpeg"
+  },
+  {
+    "id": 265,
+    "ad": "Sait",
+    "soyadi": "AKSOY",
+    "dogumTarihi": 1956,
+    "dogumYeri": "GÖKSUN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sait-aksoy-1956-goksun.jpeg"
+  },
+  {
+    "id": 266,
+    "ad": "Barbaros",
+    "soyadi": "KOCAKURT",
+    "dogumTarihi": 1954,
+    "dogumYeri": "IZMIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/barbaros-kocakurt-1954-izmir.jpeg"
+  },
+  {
+    "id": 267,
+    "ad": "Mahmut",
+    "soyadi": "AKDOĞAN",
+    "dogumTarihi": 1952,
+    "dogumYeri": "ISPIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mahmut-akdogan-1952-ispir.jpeg"
+  },
+  {
+    "id": 268,
+    "ad": "Süleyman",
+    "soyadi": "UYSAL",
+    "dogumTarihi": 1952,
+    "dogumYeri": "ALASEHIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-uysal-1952-alasehir.jpeg"
+  },
+  {
+    "id": 269,
+    "ad": "Murat",
+    "soyadi": "TOKAY",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ISPARTA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-tokay-1977-isparta.jpeg"
+  },
+  {
+    "id": 270,
+    "ad": "Hamza",
+    "soyadi": "SEVİNÇ",
+    "dogumTarihi": 1972,
+    "dogumYeri": "DÜZCE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hamza-sevinc-1972-duzce.jpeg"
+  },
+  {
+    "id": 271,
+    "ad": "Temel",
+    "soyadi": "ALSANCAK",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ÇELEBI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/temel-alsancak-1973-celebi.jpeg"
+  },
+  {
+    "id": 272,
+    "ad": "Ali",
+    "soyadi": "ÇAKMAK",
+    "dogumTarihi": 1974,
+    "dogumYeri": "TÜRKOGLU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-cakmak-1974-turkoglu.jpeg"
+  },
+  {
+    "id": 273,
+    "ad": "Ali",
+    "soyadi": "SEMERCİ",
+    "dogumTarihi": 1965,
+    "dogumYeri": "DARENDE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-semerci-1965-darende.jpeg"
+  },
+  {
+    "id": 274,
+    "ad": "Ahmet Hamdi",
+    "soyadi": "PARLAK",
+    "dogumTarihi": 1971,
+    "dogumYeri": "ISLAHIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-hamdi-parlak-1971-islahiye.jpeg"
+  },
+  {
+    "id": 275,
+    "ad": "İlyas",
+    "soyadi": "ŞAHİN",
+    "dogumTarihi": 1966,
+    "dogumYeri": "BEGIS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ilyas-sahin-1966-begis.jpeg"
+  },
+  {
+    "id": 276,
+    "ad": "Ziya",
+    "soyadi": "DEMİREL",
+    "dogumTarihi": 1966,
+    "dogumYeri": "SARIKAYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ziya-demirel-1966-sarikaya.jpeg"
+  },
+  {
+    "id": 277,
+    "ad": "Tuncay",
+    "soyadi": "DELİBAŞI",
+    "dogumTarihi": 1969,
+    "dogumYeri": "ILGAZ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/tuncay-delibasi-1969-ilgaz.jpeg"
+  },
+  {
+    "id": 278,
+    "ad": "Osman",
+    "soyadi": "KARAKUŞ",
+    "dogumTarihi": 1951,
+    "dogumYeri": "OYMADERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-karakus-1951-oymadere.jpeg"
+  },
+  {
+    "id": 279,
+    "ad": "Mahmut",
+    "soyadi": "AKPINAR",
+    "dogumTarihi": 1968,
+    "dogumYeri": "ALTINTAS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mahmut-akpinar-1968-altintas.jpeg"
+  },
+  {
+    "id": 280,
+    "ad": "Mesut",
+    "soyadi": "FIRAT",
+    "dogumTarihi": 1979,
+    "dogumYeri": "DEVELI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mesut-firat-1979-develi.jpeg"
+  },
+  {
+    "id": 281,
+    "ad": "Bilal",
+    "soyadi": "KURUGÜL",
+    "dogumTarihi": 1976,
+    "dogumYeri": "IHSANIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bilal-kurugul-1976-ihsaniye.jpeg"
+  },
+  {
+    "id": 282,
+    "ad": "Abdullah",
+    "soyadi": "YETİK",
+    "dogumTarihi": 1980,
+    "dogumYeri": "ÇORUM",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdullah-yetik-1980-corum.jpeg"
+  },
+  {
+    "id": 283,
+    "ad": "Ferudun",
+    "soyadi": "ÇOBAN",
+    "dogumTarihi": 1980,
+    "dogumYeri": "ARTOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ferudun-coban-1980-artova.jpeg"
+  },
+  {
+    "id": 284,
+    "ad": "Uğur",
+    "soyadi": "UÇAN",
+    "dogumTarihi": 1981,
+    "dogumYeri": "ISTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ugur-ucan-1981-istanbul.jpeg"
+  },
+  {
+    "id": 285,
+    "ad": "Mohammed Yousef Shaker",
+    "soyadi": "DAHLAN",
+    "dogumTarihi": 1961,
+    "dogumYeri": "HAN YUNUS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mohammed-yousef-shaker-dahlan-1961-han-yunus.jpeg"
+  },
+  {
+    "id": 286,
+    "ad": "Cevdet",
+    "soyadi": "TÜRKYOLU",
+    "dogumTarihi": 1960,
+    "dogumYeri": "ADAPAZARI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cevdet-turkyolu-1960-adapazari.jpeg"
+  },
+  {
+    "id": 287,
+    "ad": "Ahmet",
+    "soyadi": "KURUCAN",
+    "dogumTarihi": 1961,
+    "dogumYeri": "TAVSANLI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-kurucan-1961-tavsanli.jpeg"
+  },
+  {
+    "id": 288,
+    "ad": "Cemal",
+    "soyadi": "TÜRK",
+    "dogumTarihi": 1964,
+    "dogumYeri": "TURGUTLU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cemal-turk-1964-turgutlu.jpeg"
+  },
+  {
+    "id": 289,
+    "ad": "İbrahim",
+    "soyadi": "KOCABIYIK",
+    "dogumTarihi": 1951,
+    "dogumYeri": "SARIGÖL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ibrahim-kocabiyik-1951-sarigol.jpeg"
+  },
+  {
+    "id": 290,
+    "ad": "Reşit",
+    "soyadi": "HAYLAMAZ",
+    "dogumTarihi": 1965,
+    "dogumYeri": "AVLAGIÇAYIRI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/resit-haylamaz-1965-avlagicayiri.jpeg"
+  },
+  {
+    "id": 291,
+    "ad": "Selman",
+    "soyadi": "KUZU",
+    "dogumTarihi": 1965,
+    "dogumYeri": "ÇARSAMBA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/selman-kuzu-1965-carsamba.jpeg"
+  },
+  {
+    "id": 292,
+    "ad": "Bahattin",
+    "soyadi": "KARATAŞ",
+    "dogumTarihi": 1953,
+    "dogumYeri": "SANLIURFA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bahattin-karatas-1953-sanliurfa.jpeg"
+  },
+  {
+    "id": 293,
+    "ad": "Hüseyin",
+    "soyadi": "KARA",
+    "dogumTarihi": 1953,
+    "dogumYeri": "GÜNEYCE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-kara-1953-guneyce.jpeg"
+  },
+  {
+    "id": 294,
+    "ad": "Suat",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1941,
+    "dogumYeri": "ERGANI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suat-yildirim-1941-ergani.jpeg"
+  },
+  {
+    "id": 295,
+    "ad": "Harun",
+    "soyadi": "TOKAK",
+    "dogumTarihi": 1955,
+    "dogumYeri": "USAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/harun-tokak-1955-usak.jpeg"
+  },
+  {
+    "id": 296,
+    "ad": "İsmet",
+    "soyadi": "AKSOY",
+    "dogumTarihi": 1962,
+    "dogumYeri": "YENIKÖY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismet-aksoy-1962-yenikoy.jpeg"
+  },
+  {
+    "id": 297,
+    "ad": "Mustafa",
+    "soyadi": "YEŞİL",
+    "dogumTarihi": 1963,
+    "dogumYeri": "BIGA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-yesil-1963-biga.jpeg"
+  },
+  {
+    "id": 298,
+    "ad": "Necdet",
+    "soyadi": "İÇEL",
+    "dogumTarihi": 1955,
+    "dogumYeri": "KORUCUK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/necdet-icel-1955-korucuk.jpeg"
+  },
+  {
+    "id": 299,
+    "ad": "Nevzat",
+    "soyadi": "AYVACI",
+    "dogumTarihi": 1948,
+    "dogumYeri": "GÜZELSU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nevzat-ayvaci-1948-guzelsu.jpeg"
+  },
+  {
+    "id": 300,
+    "ad": "Turgay",
+    "soyadi": "SÖKMEN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "ERZINCAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/turgay-sokmen-1976-erzincan.jpeg"
+  },
+  {
+    "id": 301,
+    "ad": "Mehmet Ali",
+    "soyadi": "BÜYÜKÇELEBİ",
+    "dogumTarihi": 1950,
+    "dogumYeri": "TAVAS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-ali-buyukcelebi-1950-tavas.jpeg"
+  },
+  {
+    "id": 302,
+    "ad": "Şerif Ali",
+    "soyadi": "TEKALAN",
+    "dogumTarihi": 1952,
+    "dogumYeri": "SANDIKLI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/serif-ali-tekalan-1952-sandikli.jpeg"
+  },
+  {
+    "id": 303,
+    "ad": "Süleyman",
+    "soyadi": "ÖZKAYNAKCI",
+    "dogumTarihi": 1982,
+    "dogumYeri": "SIVAS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-ozkaynakci-1982-sivas.jpeg"
+  },
+  {
+    "id": 304,
+    "ad": "Ahmet",
+    "soyadi": "GÜZEL",
+    "dogumTarihi": 1977,
+    "dogumYeri": "BALA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-guzel-1977-bala.jpeg"
+  },
+  {
+    "id": 305,
+    "ad": "Gençay",
+    "soyadi": "BÖYÜK",
+    "dogumTarihi": 1977,
+    "dogumYeri": "SENKAYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gencay-boyuk-1977-senkaya.jpeg"
+  },
+  {
+    "id": 306,
+    "ad": "Ahmet Zeki",
+    "soyadi": "GEREHAN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "ESKISEHIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-zeki-gerehan-1972-eskisehir.jpeg"
+  },
+  {
+    "id": 307,
+    "ad": "Mehmet Nail",
+    "soyadi": "YİĞİT",
+    "dogumTarihi": 1968,
+    "dogumYeri": "FETHIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-nail-yigit-1968-fethiye.jpeg"
+  },
+  {
+    "id": 308,
+    "ad": "Burkay",
+    "soyadi": "KARATEPE",
+    "dogumTarihi": 1984,
+    "dogumYeri": "EMIRDAG",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/burkay-karatepe-1984-emirdag.jpeg"
+  },
+  {
+    "id": 309,
+    "ad": "Hamdullah Bayram",
+    "soyadi": "ÖZTÜRK",
+    "dogumTarihi": 1967,
+    "dogumYeri": "SORGUN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hamdullah-bayram-ozturk-1967-sorgun.jpeg"
+  },
+  {
+    "id": 310,
+    "ad": "Ali",
+    "soyadi": "URSAVAŞ",
+    "dogumTarihi": 1962,
+    "dogumYeri": "INCIRAGACI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-ursavas-1962-inciragaci.jpeg"
+  },
+  {
+    "id": 311,
+    "ad": "Halit",
+    "soyadi": "ESENDİR",
+    "dogumTarihi": 1955,
+    "dogumYeri": "KOCAHIDIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/halit-esendir-1955-kocahidir.jpeg"
+  },
+  {
+    "id": 312,
+    "ad": "Abdullah",
+    "soyadi": "AYMAZ",
+    "dogumTarihi": 1945,
+    "dogumYeri": "EMET",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdullah-aymaz-1945-emet.jpeg"
+  },
+  {
+    "id": 313,
+    "ad": "Ahmet",
+    "soyadi": "KARA",
+    "dogumTarihi": 1958,
+    "dogumYeri": "DENIZLI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-kara-1958-denizli.jpeg"
+  },
+  {
+    "id": 314,
+    "ad": "İsmail",
+    "soyadi": "BÜYÜKÇELEBİ",
+    "dogumTarihi": 1951,
+    "dogumYeri": "TAVAS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ismail-buyukcelebi-1951-tavas.jpeg"
+  },
+  {
+    "id": 315,
+    "ad": "Mustafa",
+    "soyadi": "ÖZCAN",
+    "dogumTarihi": 1951,
+    "dogumYeri": "GEDIZ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-ozcan-1951-gediz.jpeg"
+  },
+  {
+    "id": 316,
+    "ad": "Naci",
+    "soyadi": "TOSUN",
+    "dogumTarihi": 1950,
+    "dogumYeri": "KOZANLI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/naci-tosun-1950-kozanli.jpeg"
+  },
+  {
+    "id": 317,
+    "ad": "Adil",
+    "soyadi": "ÖKSÜZ",
+    "dogumTarihi": 1967,
+    "dogumYeri": "ANDIRIN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/adil-oksuz-1967-andirin.jpeg"
+  },
+  {
+    "id": 318,
+    "ad": "Necmettin",
+    "soyadi": "SANLİ",
+    "dogumTarihi": 1969,
+    "dogumYeri": "ERGANI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/necmettin-sanli-1969-ergani.jpeg"
+  },
+  {
+    "id": 319,
+    "ad": "Sener",
+    "soyadi": "DÜNÜK",
+    "dogumTarihi": 1978,
+    "dogumYeri": "SILVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sener-dunuk-1978-silvan.jpeg"
+  },
+  {
+    "id": 320,
+    "ad": "Haşim",
+    "soyadi": "ALABALIK",
+    "dogumTarihi": 1976,
+    "dogumYeri": "DIYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasim-alabalik-1976-diyarbakir.jpeg"
+  },
+  {
+    "id": 321,
+    "ad": "Edip",
+    "soyadi": "GÜMÜŞ",
+    "dogumTarihi": 1958,
+    "dogumYeri": "AKSU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/edip-gumus-1958-aksu.jpeg"
+  },
+  {
+    "id": 322,
+    "ad": "İsa",
+    "soyadi": "ALTSOY",
+    "dogumTarihi": 1961,
+    "dogumYeri": "BOGAZKÖY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/isa-altsoy-1961-bogazkoy.jpeg"
+  },
+  {
+    "id": 323,
+    "ad": "Mehmet",
+    "soyadi": "KEREM",
+    "dogumTarihi": 1978,
+    "dogumYeri": "OVACIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-kerem-1978-ovacik.jpeg"
+  },
+  {
+    "id": 324,
+    "ad": "Ramazan",
+    "soyadi": "ÖKTÜLMÜŞ",
+    "dogumTarihi": 1958,
+    "dogumYeri": "GERGER",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ramazan-oktulmus-1958-gerger.jpeg"
+  },
+  {
+    "id": 325,
+    "ad": "Ali Ekber",
+    "soyadi": "DOĞAN",
+    "dogumTarihi": 1973,
+    "dogumYeri": "MADEN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-ekber-dogan-1973-maden.jpeg"
+  },
+  {
+    "id": 326,
+    "ad": "Kemal",
+    "soyadi": "KUTAN",
+    "dogumTarihi": 1965,
+    "dogumYeri": "TUNCELI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kemal-kutan-1965-tunceli.jpeg"
+  },
+  {
+    "id": 327,
+    "ad": "Ali Rıza",
+    "soyadi": "DERMANLI",
+    "dogumTarihi": 1969,
+    "dogumYeri": "OVACIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-riza-dermanli-1969-ovacik.jpeg"
+  },
+  {
+    "id": 328,
+    "ad": "İmam",
+    "soyadi": "CANDAN",
+    "dogumTarihi": 1962,
+    "dogumYeri": "OVACIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/imam-candan-1962-ovacik.jpeg"
+  },
+  {
+    "id": 329,
+    "ad": "Onur",
+    "soyadi": "DÜNDAR",
+    "dogumTarihi": 1986,
+    "dogumYeri": "ZARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/onur-dundar-1986-zara.jpeg"
+  },
+  {
+    "id": 330,
+    "ad": "Zeynep",
+    "soyadi": "KARABOĞA",
+    "dogumTarihi": 1992,
+    "dogumYeri": "BAKIRKÖY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zeynep-karaboga-1992-bakirkoy.jpeg"
+  },
+  {
+    "id": 331,
+    "ad": "Haydar",
+    "soyadi": "KUTAN",
+    "dogumTarihi": 1954,
+    "dogumYeri": "TUNCELİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/haydar-kutan-1954-tunceli.jpeg"
+  },
+  {
+    "id": 332,
+    "ad": "Başak Şahin",
+    "soyadi": "DUMAN",
+    "dogumTarihi": 1979,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/basak-sahin-duman-1979-ankara.jpeg"
+  },
+  {
+    "id": 333,
+    "ad": "Hatice",
+    "soyadi": "AYDEMİR",
+    "dogumTarihi": 1970,
+    "dogumYeri": "ELBISTAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hatice-aydemir-1970-elbistan.jpeg"
+  },
+  {
+    "id": 334,
+    "ad": "Arif",
+    "soyadi": "ÇELEBİ",
+    "dogumTarihi": 1963,
+    "dogumYeri": "ISTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/arif-celebi-1963-istanbul.jpeg"
+  },
+  {
+    "id": 335,
+    "ad": "Seyfi",
+    "soyadi": "POLAT",
+    "dogumTarihi": 1967,
+    "dogumYeri": "MAZGIRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/seyfi-polat-1967-mazgirt.jpeg"
+  },
+  {
+    "id": 336,
+    "ad": "Ziya",
+    "soyadi": "ULUSOY",
+    "dogumTarihi": 1953,
+    "dogumYeri": "OVACIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ziya-ulusoy-1953-ovacik.jpeg"
+  },
+  {
+    "id": 337,
+    "ad": "Naci",
+    "soyadi": "GÜNER",
+    "dogumTarihi": 1952,
+    "dogumYeri": "ERZINCAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/naci-guner-1952-erzincan.jpeg"
+  },
+  {
+    "id": 338,
+    "ad": "Ali Hıdır",
+    "soyadi": "POLAT",
+    "dogumTarihi": 1960,
+    "dogumYeri": "PÜLÜMÜR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-hidir-polat-1960-pulumur.jpeg"
+  },
+  {
+    "id": 339,
+    "ad": "İbrahim",
+    "soyadi": "ÇİÇEK",
+    "dogumTarihi": 1956,
+    "dogumYeri": "DIVRIGI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ibrahim-cicek-1956-divrigi.jpeg"
+  },
+  {
+    "id": 340,
+    "ad": "Zabit",
+    "soyadi": "İLTÜMÜR",
+    "dogumTarihi": 1954,
+    "dogumYeri": "PERTEK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zabit-iltumur-1954-pertek.jpeg"
+  },
+  {
+    "id": 341,
+    "ad": "İbrahim",
+    "soyadi": "KEPEZ",
+    "dogumTarihi": 1961,
+    "dogumYeri": "ELBISTAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ibrahim-kepez-1961-elbistan.jpeg"
+  },
+  {
+    "id": 342,
+    "ad": "Adem Serkan",
+    "soyadi": "GÜNDOĞDU",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ISTANBUL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/adem-serkan-gundogdu-1977-istanbul.jpeg"
+  },
+  {
+    "id": 343,
+    "ad": "Sultan",
+    "soyadi": "ULUSOY",
+    "dogumTarihi": 1969,
+    "dogumYeri": "SARIZ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sultan-ulusoy-1969-sariz.jpeg"
+  },
+  {
+    "id": 344,
+    "ad": "Serpil",
+    "soyadi": "ARSLAN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "BULANIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/serpil-arslan-1974-bulanik.jpeg"
+  },
+  {
+    "id": 345,
+    "ad": "Yusuf",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1957,
+    "dogumYeri": "SANIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yusuf-demir-1957-sanik.jpeg"
+  },
+  {
+    "id": 346,
+    "ad": "Serdar",
+    "soyadi": "ZİRİĞ",
+    "dogumTarihi": 1981,
+    "dogumYeri": "İDİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/serdar-zirig-1981-idil.jpeg"
+  },
+  {
+    "id": 347,
+    "ad": "İbrahim Halil",
+    "soyadi": "BAYLİ",
+    "dogumTarihi": 1980,
+    "dogumYeri": "BOZOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ibrahim-halil-bayli-1980-bozova.jpeg"
+  },
+  {
+    "id": 348,
+    "ad": "Memet Emin",
+    "soyadi": "TOPRAK",
+    "dogumTarihi": 1972,
+    "dogumYeri": "DİYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/memet-emin-toprak-1972-diyarbakir.jpeg"
+  },
+  {
+    "id": 349,
+    "ad": "Raif",
+    "soyadi": "ÇİFTÇİ",
+    "dogumTarihi": 1975,
+    "dogumYeri": "HAKKARİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/raif-ciftci-1975-hakkari.jpeg"
+  },
+  {
+    "id": 350,
+    "ad": "Ramazan",
+    "soyadi": "ABI",
+    "dogumTarihi": 1976,
+    "dogumYeri": "BEYTÜŞŞEBAP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ramazan-abi-1976-beytussebap.jpeg"
+  },
+  {
+    "id": 351,
+    "ad": "Mehmet Sadık",
+    "soyadi": "KAYA",
+    "dogumTarihi": 1989,
+    "dogumYeri": "NUSAYBİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-sadik-kaya-1989-nusaybin.jpeg"
+  },
+  {
+    "id": 352,
+    "ad": "Gurbet",
+    "soyadi": "KARA",
+    "dogumTarihi": 1982,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gurbet-kara-1982-uludere.jpeg"
+  },
+  {
+    "id": 353,
+    "ad": "Cuma",
+    "soyadi": "GÜLLÜ",
+    "dogumTarihi": 1978,
+    "dogumYeri": "ŞANLIURFA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cuma-gullu-1978-sanliurfa.jpeg"
+  },
+  {
+    "id": 354,
+    "ad": "Gülistan",
+    "soyadi": "CİN",
+    "dogumTarihi": 1991,
+    "dogumYeri": "BEYTÜŞŞEBAP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulistan-cin-1991-beytussebap.jpeg"
+  },
+  {
+    "id": 355,
+    "ad": "Ayşe",
+    "soyadi": "DAYAN",
+    "dogumTarihi": 1979,
+    "dogumYeri": "ERUH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ayse-dayan-1979-eruh.jpeg"
+  },
+  {
+    "id": 356,
+    "ad": "Yeşim",
+    "soyadi": "TURŞAK",
+    "dogumTarihi": 1988,
+    "dogumYeri": "EDREMİT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yesim-tursak-1988-edremit.jpeg"
+  },
+  {
+    "id": 357,
+    "ad": "Arjin",
+    "soyadi": "BAYSAL",
+    "dogumTarihi": 1992,
+    "dogumYeri": "DARGEÇİT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/arjin-baysal-1992-dargecit.jpeg"
+  },
+  {
+    "id": 358,
+    "ad": "Ronahi",
+    "soyadi": "KARAHAN",
+    "dogumTarihi": 1994,
+    "dogumYeri": "DİYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ronahi-karahan-1994-diyarbakir.jpeg"
+  },
+  {
+    "id": 359,
+    "ad": "Leman",
+    "soyadi": "ŞİMŞEK",
+    "dogumTarihi": 1989,
+    "dogumYeri": "KONAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/leman-simsek-1989-konak.jpeg"
+  },
+  {
+    "id": 360,
+    "ad": "Gazal",
+    "soyadi": "KAYMAZ",
+    "dogumTarihi": 1997,
+    "dogumYeri": "BATMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gazal-kaymaz-1997-batman.jpeg"
+  },
+  {
+    "id": 361,
+    "ad": "Haskar",
+    "soyadi": "ŞAHİN",
+    "dogumTarihi": 1998,
+    "dogumYeri": "KARAKOÇAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/haskar-sahin-1998-karakocan.jpeg"
+  },
+  {
+    "id": 362,
+    "ad": "Enver",
+    "soyadi": "BAYRAM",
+    "dogumTarihi": 1975,
+    "dogumYeri": "BAŞKALE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/enver-bayram-1975-baskale.jpeg"
+  },
+  {
+    "id": 363,
+    "ad": "Halim",
+    "soyadi": "ÖZKAN",
+    "dogumTarihi": 1978,
+    "dogumYeri": "ERUH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/halim-ozkan-1978-eruh.jpeg"
+  },
+  {
+    "id": 364,
+    "ad": "Nesrin",
+    "soyadi": "DENİZ",
+    "dogumTarihi": 1979,
+    "dogumYeri": "HİLVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nesrin-deniz-1979-hilvan.jpeg"
+  },
+  {
+    "id": 365,
+    "ad": "Mehmet Emin",
+    "soyadi": "ATEŞ",
+    "dogumTarihi": 1980,
+    "dogumYeri": "KULP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-emin-ates-1980-kulp.jpeg"
+  },
+  {
+    "id": 366,
+    "ad": "Kadriye",
+    "soyadi": "SAYIN",
+    "dogumTarihi": 1969,
+    "dogumYeri": "DİGOR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kadriye-sayin-1969-digor.jpeg"
+  },
+  {
+    "id": 367,
+    "ad": "Kenan",
+    "soyadi": "AYDIN",
+    "dogumTarihi": 1966,
+    "dogumYeri": "ARPAÇAY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kenan-aydin-1966-arpacay.jpeg"
+  },
+  {
+    "id": 368,
+    "ad": "Felek",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1975,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/felek-demir-1975-midyat.jpeg"
+  },
+  {
+    "id": 369,
+    "ad": "Gülbahar",
+    "soyadi": "KÖKER",
+    "dogumTarihi": 1975,
+    "dogumYeri": "ELBİSTAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulbahar-koker-1975-elbistan.jpeg"
+  },
+  {
+    "id": 370,
+    "ad": "Abdulgafur",
+    "soyadi": "DİNÇ",
+    "dogumTarihi": 1975,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdulgafur-dinc-1975-yuksekova.jpeg"
+  },
+  {
+    "id": 371,
+    "ad": "Özlem",
+    "soyadi": "ALPARSLAN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "TUNCELİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ozlem-alparslan-1974-tunceli.jpeg"
+  },
+  {
+    "id": 372,
+    "ad": "Saniye",
+    "soyadi": "KUTLU",
+    "dogumTarihi": 1985,
+    "dogumYeri": "ŞIRNAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/saniye-kutlu-1985-sirnak.jpeg"
+  },
+  {
+    "id": 373,
+    "ad": "Azime",
+    "soyadi": "ARSUN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "SİLOPİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/azime-arsun-1976-silopi.jpeg"
+  },
+  {
+    "id": 374,
+    "ad": "Sinem",
+    "soyadi": "EKİNCİ",
+    "dogumTarihi": 1989,
+    "dogumYeri": "PERTEK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sinem-ekinci-1989-pertek.jpeg"
+  },
+  {
+    "id": 375,
+    "ad": "Gülnaz",
+    "soyadi": "KULCÜR",
+    "dogumTarihi": 1976,
+    "dogumYeri": "KURTALAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulnaz-kulcur-1976-kurtalan.jpeg"
+  },
+  {
+    "id": 376,
+    "ad": "Talha",
+    "soyadi": "POLAT",
+    "dogumTarihi": 1980,
+    "dogumYeri": "SARICA GÜRÜN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/talha-polat-1980-sarica-gurun.jpeg"
+  },
+  {
+    "id": 377,
+    "ad": "Hasan",
+    "soyadi": "MAHMUDİ",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ERDABİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasan-mahmudi-1977-erdabil.jpeg"
+  },
+  {
+    "id": 378,
+    "ad": "Kamuran",
+    "soyadi": "YÜKSEK",
+    "dogumTarihi": 1980,
+    "dogumYeri": "KARAYAZI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kamuran-yuksek-1980-karayazi.jpeg"
+  },
+  {
+    "id": 379,
+    "ad": "Nadir",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1981,
+    "dogumYeri": "HAMUR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nadir-yildirim-1981-hamur.jpeg"
+  },
+  {
+    "id": 380,
+    "ad": "Kamile",
+    "soyadi": "ACAR",
+    "dogumTarihi": 1978,
+    "dogumYeri": "İDİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kamile-acar-1978-idil.jpeg"
+  },
+  {
+    "id": 381,
+    "ad": "Gülseren",
+    "soyadi": "ÖZDEMİR",
+    "dogumTarihi": 1978,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulseren-ozdemir-1978-midyat.jpeg"
+  },
+  {
+    "id": 382,
+    "ad": "Osman",
+    "soyadi": "ŞEN",
+    "dogumTarihi": 1963,
+    "dogumYeri": "TELBİSİM",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-sen-1963-telbisim.jpeg"
+  },
+  {
+    "id": 383,
+    "ad": "Süleyman",
+    "soyadi": "GÜLER",
+    "dogumTarihi": 1989,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-guler-1989-midyat.jpeg"
+  },
+  {
+    "id": 384,
+    "ad": "Hasan",
+    "soyadi": "KANDEMİR",
+    "dogumTarihi": 1981,
+    "dogumYeri": "SURUÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasan-kandemir-1981-suruc.jpeg"
+  },
+  {
+    "id": 385,
+    "ad": "Cantürk",
+    "soyadi": "BARAN",
+    "dogumTarihi": 1988,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/canturk-baran-1988-yuksekova.jpeg"
+  },
+  {
+    "id": 386,
+    "ad": "Esma",
+    "soyadi": "BİLMEZ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ÇINAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/esma-bilmez-1973-cinar.jpeg"
+  },
+  {
+    "id": 387,
+    "ad": "Nezete",
+    "soyadi": "AKYÜZ",
+    "dogumTarihi": 1979,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nezete-akyuz-1979-midyat.jpeg"
+  },
+  {
+    "id": 388,
+    "ad": "Yılmaz",
+    "soyadi": "DAĞLUM",
+    "dogumTarihi": 1958,
+    "dogumYeri": "SİVEREK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yilmaz-daglum-1958-siverek.jpeg"
+  },
+  {
+    "id": 389,
+    "ad": "Emir Settar",
+    "soyadi": "MEVLÜT",
+    "dogumTarihi": 1970,
+    "dogumYeri": "SURİYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emir-settar-mevlut-1970-suriye.jpeg"
+  },
+  {
+    "id": 390,
+    "ad": "Ramazan",
+    "soyadi": "AYBİ",
+    "dogumTarihi": 1976,
+    "dogumYeri": "SİLOPİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ramazan-aybi-1976-silopi.jpeg"
+  },
+  {
+    "id": 391,
+    "ad": "Şükriye",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1977,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sukriye-demir-1977-midyat.jpeg"
+  },
+  {
+    "id": 392,
+    "ad": "Kumri",
+    "soyadi": "KARA",
+    "dogumTarihi": 1988,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kumri-kara-1988-uludere.jpeg"
+  },
+  {
+    "id": 393,
+    "ad": "Nuri",
+    "soyadi": "DUMAN",
+    "dogumTarihi": 1987,
+    "dogumYeri": "HAKKARİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nuri-duman-1987-hakkari.jpeg"
+  },
+  {
+    "id": 394,
+    "ad": "Mehmet Can",
+    "soyadi": "TEMEL",
+    "dogumTarihi": 1984,
+    "dogumYeri": "MAZIDAĞI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-can-temel-1984-mazidagi.jpeg"
+  },
+  {
+    "id": 395,
+    "ad": "Celalettin",
+    "soyadi": "GÜN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/celalettin-gun-1976-midyat.jpeg"
+  },
+  {
+    "id": 396,
+    "ad": "Faruk",
+    "soyadi": "AKALTUN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "ŞANLIURFA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/faruk-akaltun-1972-sanliurfa.jpeg"
+  },
+  {
+    "id": 397,
+    "ad": "Arzu",
+    "soyadi": "OK",
+    "dogumTarihi": 1979,
+    "dogumYeri": "ADIYAMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/arzu-ok-1979-adiyaman.jpeg"
+  },
+  {
+    "id": 398,
+    "ad": "Besna",
+    "soyadi": "KILIÇ",
+    "dogumTarihi": 1983,
+    "dogumYeri": "ERUH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/besna-kilic-1983-eruh.jpeg"
+  },
+  {
+    "id": 399,
+    "ad": "Cemal",
+    "soyadi": "ELDEMİR",
+    "dogumTarihi": 1974,
+    "dogumYeri": "AKARSU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cemal-eldemir-1974-akarsu.jpeg"
+  },
+  {
+    "id": 400,
+    "ad": "Dündar",
+    "soyadi": "ALPARSLAN",
+    "dogumTarihi": 1960,
+    "dogumYeri": "ÖZALP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/dundar-alparslan-1960-ozalp.jpeg"
+  },
+  {
+    "id": 401,
+    "ad": "Bayram",
+    "soyadi": "ALTUN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "NUSAYBİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bayram-altun-1974-nusaybin.jpeg"
+  },
+  {
+    "id": 402,
+    "ad": "Hüseyin",
+    "soyadi": "GEDİK",
+    "dogumTarihi": 1963,
+    "dogumYeri": "İSABEY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/huseyin-gedik-1963-isabey.jpeg"
+  },
+  {
+    "id": 403,
+    "ad": "Gazi",
+    "soyadi": "ÖZDEMİR",
+    "dogumTarihi": 1969,
+    "dogumYeri": "MAZGİRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gazi-ozdemir-1969-mazgirt.jpeg"
+  },
+  {
+    "id": 404,
+    "ad": "Rahşan",
+    "soyadi": "AKSOY",
+    "dogumTarihi": 1976,
+    "dogumYeri": "GÖLYAZI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/rahsan-aksoy-1976-golyazi.jpeg"
+  },
+  {
+    "id": 405,
+    "ad": "KATİBE",
+    "soyadi": "DUMAN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/katibe-duman-1976-midyat.jpeg"
+  },
+  {
+    "id": 406,
+    "ad": "Habip",
+    "soyadi": "ÇİFTÇİ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "BİTLİS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/habip-ciftci-1973-bitlis.jpeg"
+  },
+  {
+    "id": 407,
+    "ad": "Abbas",
+    "soyadi": "SERTKAYA",
+    "dogumTarihi": 1974,
+    "dogumYeri": "VARTO/İÇMELER",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abbas-sertkaya-1974-vartoicmeler.jpeg"
+  },
+  {
+    "id": 408,
+    "ad": "Müzeyyen",
+    "soyadi": "GÜNEŞ",
+    "dogumTarihi": 1970,
+    "dogumYeri": "BULANIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muzeyyen-gunes-1970-bulanik.jpeg"
+  },
+  {
+    "id": 409,
+    "ad": "Leyla",
+    "soyadi": "GELİR",
+    "dogumTarihi": 1976,
+    "dogumYeri": "DEREİÇİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/leyla-gelir-1976-dereici.jpeg"
+  },
+  {
+    "id": 410,
+    "ad": "Harun",
+    "soyadi": "ATAMAN",
+    "dogumTarihi": 1986,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/harun-ataman-1986-yuksekova.jpeg"
+  },
+  {
+    "id": 411,
+    "ad": "Mehmet",
+    "soyadi": "GÜCİN",
+    "dogumTarihi": 1984,
+    "dogumYeri": "BİNGÖL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-gucin-1984-bingol.jpeg"
+  },
+  {
+    "id": 412,
+    "ad": "Mehmet Cudi",
+    "soyadi": "SEZGİN",
+    "dogumTarihi": 1993,
+    "dogumYeri": "NUSAYBİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-cudi-sezgin-1993-nusaybin.jpeg"
+  },
+  {
+    "id": 413,
+    "ad": "Azad",
+    "soyadi": "AKINCI",
+    "dogumTarihi": 1989,
+    "dogumYeri": "BATMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/azad-akinci-1989-batman.jpeg"
+  },
+  {
+    "id": 414,
+    "ad": "Songül",
+    "soyadi": "SICAKYÜZ",
+    "dogumTarihi": 1990,
+    "dogumYeri": "GENÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/songul-sicakyuz-1990-genc.jpeg"
+  },
+  {
+    "id": 415,
+    "ad": "Gül",
+    "soyadi": "ZEREN",
+    "dogumTarihi": 1993,
+    "dogumYeri": "ALACAKAYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gul-zeren-1993-alacakaya.jpeg"
+  },
+  {
+    "id": 416,
+    "ad": "Leyla",
+    "soyadi": "ARSLAN",
+    "dogumTarihi": 1989,
+    "dogumYeri": "DİYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/leyla-arslan-1989-diyarbakir.jpeg"
+  },
+  {
+    "id": 417,
+    "ad": "Filiz",
+    "soyadi": "DEMİRCİ",
+    "dogumTarihi": 1987,
+    "dogumYeri": "BİNGÖL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/filiz-demirci-1987-bingol.jpeg"
+  },
+  {
+    "id": 418,
+    "ad": "Cevher",
+    "soyadi": "KARA",
+    "dogumTarihi": 1985,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cevher-kara-1985-uludere.jpeg"
+  },
+  {
+    "id": 419,
+    "ad": "Çiçek",
+    "soyadi": "TUNÇ",
+    "dogumTarihi": 1991,
+    "dogumYeri": "TAŞLIÇAY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cicek-tunc-1991-taslicay.jpeg"
+  },
+  {
+    "id": 420,
+    "ad": "Lokman",
+    "soyadi": "KATMIŞ",
+    "dogumTarihi": 1993,
+    "dogumYeri": "TARSUS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/lokman-katmis-1993-tarsus.jpeg"
+  },
+  {
+    "id": 421,
+    "ad": "Bilen",
+    "soyadi": "ENCU",
+    "dogumTarihi": 1992,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bilen-encu-1992-uludere.jpeg"
+  },
+  {
+    "id": 422,
+    "ad": "Murat",
+    "soyadi": "ŞAKAR",
+    "dogumTarihi": 1996,
+    "dogumYeri": "BEŞİRİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-sakar-1996-besiri.jpeg"
+  },
+  {
+    "id": 423,
+    "ad": "Eren",
+    "soyadi": "TEMEL",
+    "dogumTarihi": 1976,
+    "dogumYeri": "VARTO/SEKİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/eren-temel-1976-vartoseki.jpeg"
+  },
+  {
+    "id": 424,
+    "ad": "Yunus",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1976,
+    "dogumYeri": "ŞEMDİNLİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yunus-demir-1976-semdinli.jpeg"
+  },
+  {
+    "id": 425,
+    "ad": "Remzi",
+    "soyadi": "AVCI",
+    "dogumTarihi": 1977,
+    "dogumYeri": "KULP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/remzi-avci-1977-kulp.jpeg"
+  },
+  {
+    "id": 426,
+    "ad": "Elham",
+    "soyadi": "AHMED",
+    "dogumTarihi": 1972,
+    "dogumYeri": "HALEP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/elham-ahmed-1972-halep.jpeg"
+  },
+  {
+    "id": 427,
+    "ad": "Yaşar",
+    "soyadi": "ÇEKİK",
+    "dogumTarihi": 1977,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yasar-cekik-1977-yuksekova.jpeg"
+  },
+  {
+    "id": 428,
+    "ad": "Müzgin",
+    "soyadi": "ASLAN",
+    "dogumTarihi": 1965,
+    "dogumYeri": "ŞEMSİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muzgin-aslan-1965-semsi.jpeg"
+  },
+  {
+    "id": 429,
+    "ad": "Zekeriya",
+    "soyadi": "YILDIZ",
+    "dogumTarihi": 1978,
+    "dogumYeri": "ERGANİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zekeriya-yildiz-1978-ergani.jpeg"
+  },
+  {
+    "id": 430,
+    "ad": "Cemile",
+    "soyadi": "ÇELİK",
+    "dogumTarihi": 1982,
+    "dogumYeri": "MİDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cemile-celik-1982-midyat.jpeg"
+  },
+  {
+    "id": 431,
+    "ad": "Hasan",
+    "soyadi": "KOYUNCU",
+    "dogumTarihi": 1967,
+    "dogumYeri": "GÜRÜN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasan-koyuncu-1967-gurun.jpeg"
+  },
+  {
+    "id": 432,
+    "ad": "Faysal",
+    "soyadi": "ÇETİN",
+    "dogumTarihi": 1983,
+    "dogumYeri": "KOZLUK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/faysal-cetin-1983-kozluk.jpeg"
+  },
+  {
+    "id": 433,
+    "ad": "Ramazan",
+    "soyadi": "KESER",
+    "dogumTarihi": 1992,
+    "dogumYeri": "ADİLCEVAZ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ramazan-keser-1992-adilcevaz.jpeg"
+  },
+  {
+    "id": 434,
+    "ad": "Ayşe",
+    "soyadi": "HÖSSO",
+    "dogumTarihi": 1978,
+    "dogumYeri": "HALEP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ayse-hosso-1978-halep.jpeg"
+  },
+  {
+    "id": 435,
+    "ad": "Mehmet",
+    "soyadi": "ŞAKAR",
+    "dogumTarihi": 1978,
+    "dogumYeri": "İDİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-sakar-1978-idil.jpeg"
+  },
+  {
+    "id": 436,
+    "ad": "Lokman",
+    "soyadi": "YALMAN",
+    "dogumTarihi": 1969,
+    "dogumYeri": "İDİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/lokman-yalman-1969-idil.jpeg"
+  },
+  {
+    "id": 437,
+    "ad": "Nihat",
+    "soyadi": "DURMUŞ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "SURUÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nihat-durmus-1971-suruc.jpeg"
+  },
+  {
+    "id": 438,
+    "ad": "Arap",
+    "soyadi": "GÜLENÇ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ŞIRNAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/arap-gulenc-1973-sirnak.jpeg"
+  },
+  {
+    "id": 439,
+    "ad": "Muhammed",
+    "soyadi": "İBRAHİM",
+    "dogumTarihi": 1990,
+    "dogumYeri": "KOBANİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muhammed-ibrahim-1990-kobani.jpeg"
+  },
+  {
+    "id": 440,
+    "ad": "Sekvan",
+    "soyadi": "BABAT",
+    "dogumTarihi": 1983,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sekvan-babat-1983-uludere.jpeg"
+  },
+  {
+    "id": 441,
+    "ad": "Ömer",
+    "soyadi": "CİNGÖZ",
+    "dogumTarihi": 1980,
+    "dogumYeri": "İDİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/omer-cingoz-1980-idil.jpeg"
+  },
+  {
+    "id": 442,
+    "ad": "Ramazan",
+    "soyadi": "MORKOÇ",
+    "dogumTarihi": 1967,
+    "dogumYeri": "ARDAHAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ramazan-morkoc-1967-ardahan.jpeg"
+  },
+  {
+    "id": 443,
+    "ad": "Mustafa",
+    "soyadi": "BEYAZİT",
+    "dogumTarihi": 1976,
+    "dogumYeri": "KARAKOÇAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-beyazit-1976-karakocan.jpeg"
+  },
+  {
+    "id": 444,
+    "ad": "Esin",
+    "soyadi": "YALÇIN",
+    "dogumTarihi": 1981,
+    "dogumYeri": "TUNCELI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/esin-yalcin-1981-tunceli.jpeg"
+  },
+  {
+    "id": 445,
+    "ad": "Zozan",
+    "soyadi": "ÇETİN",
+    "dogumTarihi": 1992,
+    "dogumYeri": "HAKKARI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zozan-cetin-1992-hakkari.jpeg"
+  },
+  {
+    "id": 446,
+    "ad": "Nurcan",
+    "soyadi": "AĞRALİ",
+    "dogumTarihi": 1985,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nurcan-agrali-1985-yuksekova.jpeg"
+  },
+  {
+    "id": 447,
+    "ad": "İjlal",
+    "soyadi": "ATAK",
+    "dogumTarihi": 1991,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ijlal-atak-1991-yuksekova.jpeg"
+  },
+  {
+    "id": 448,
+    "ad": "Sabri",
+    "soyadi": "AKGÜL",
+    "dogumTarihi": 1981,
+    "dogumYeri": "ÇUKURCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sabri-akgul-1981-cukurca.jpeg"
+  },
+  {
+    "id": 449,
+    "ad": "Gülten",
+    "soyadi": "OĞUZ",
+    "dogumTarihi": 1983,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulten-oguz-1983-yuksekova.jpeg"
+  },
+  {
+    "id": 450,
+    "ad": "Argın Umut",
+    "soyadi": "UÇAR",
+    "dogumTarihi": 1989,
+    "dogumYeri": "ADIYAMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/argin-umut-ucar-1989-adiyaman.jpeg"
+  },
+  {
+    "id": 451,
+    "ad": "Azime",
+    "soyadi": "KARA",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/azime-kara-1977-uludere.jpeg"
+  },
+  {
+    "id": 452,
+    "ad": "Eyüp",
+    "soyadi": "TOĞYILDIZ",
+    "dogumTarihi": 1991,
+    "dogumYeri": "BATMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/eyup-togyildiz-1991-batman.jpeg"
+  },
+  {
+    "id": 453,
+    "ad": "Hizret",
+    "soyadi": "ÇALKIN",
+    "dogumTarihi": 1996,
+    "dogumYeri": "HIZAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hizret-calkin-1996-hizan.jpeg"
+  },
+  {
+    "id": 454,
+    "ad": "Cüneyt",
+    "soyadi": "İNANÇ",
+    "dogumTarihi": 1990,
+    "dogumYeri": "CIZRE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cuneyt-inanc-1990-cizre.jpeg"
+  },
+  {
+    "id": 455,
+    "ad": "Ayten",
+    "soyadi": "ATALAY",
+    "dogumTarihi": 1981,
+    "dogumYeri": "DERIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ayten-atalay-1981-derik.jpeg"
+  },
+  {
+    "id": 456,
+    "ad": "Yeter",
+    "soyadi": "İNCE",
+    "dogumTarihi": 1974,
+    "dogumYeri": "OVACIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yeter-ince-1974-ovacik.jpeg"
+  },
+  {
+    "id": 457,
+    "ad": "Muazzez",
+    "soyadi": "VURAN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "LICE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muazzez-vuran-1974-lice.jpeg"
+  },
+  {
+    "id": 458,
+    "ad": "Ali",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1984,
+    "dogumYeri": "GERCÜS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-demir-1984-gercus.jpeg"
+  },
+  {
+    "id": 459,
+    "ad": "Eşrefedip",
+    "soyadi": "AYDIN",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ÇUKURCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/esrefedip-aydin-1973-cukurca.jpeg"
+  },
+  {
+    "id": 460,
+    "ad": "Nülüfer",
+    "soyadi": "BORULDAY",
+    "dogumTarihi": 1971,
+    "dogumYeri": "ELAZIG",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nulufer-borulday-1971-elazig.jpeg"
+  },
+  {
+    "id": 461,
+    "ad": "Fatma",
+    "soyadi": "ŞENPINAR",
+    "dogumTarihi": 1968,
+    "dogumYeri": "PAZARCIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatma-senpinar-1968-pazarcik.jpeg"
+  },
+  {
+    "id": 462,
+    "ad": "Zeynep",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1971,
+    "dogumYeri": "HEKIMHAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zeynep-yildirim-1971-hekimhan.jpeg"
+  },
+  {
+    "id": 463,
+    "ad": "Emine",
+    "soyadi": "MANTU",
+    "dogumTarihi": 1977,
+    "dogumYeri": "IZMIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emine-mantu-1977-izmir.jpeg"
+  },
+  {
+    "id": 464,
+    "ad": "Rıdvan",
+    "soyadi": "ALKAN",
+    "dogumTarihi": 1988,
+    "dogumYeri": "PATNOS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ridvan-alkan-1988-patnos.jpeg"
+  },
+  {
+    "id": 465,
+    "ad": "Saliha",
+    "soyadi": "BİŞKİN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "NUSAYBIN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/saliha-biskin-1976-nusaybin.jpeg"
+  },
+  {
+    "id": 466,
+    "ad": "Ali",
+    "soyadi": "NOVRUZI",
+    "dogumTarihi": 1980,
+    "dogumYeri": "IRAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-novruzi-1980-iran.jpeg"
+  },
+  {
+    "id": 467,
+    "ad": "Necibe",
+    "soyadi": "ÖMER",
+    "dogumTarihi": 1971,
+    "dogumYeri": "Bagdat",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/necibe-omer-1971-bagdat.jpeg"
+  },
+  {
+    "id": 468,
+    "ad": "Lokman Abdullah",
+    "soyadi": "İBRAHİM",
+    "dogumTarihi": 1972,
+    "dogumYeri": "Erbil",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/lokman-abdullah-ibrahim-1972-erbil.jpeg"
+  },
+  {
+    "id": 469,
+    "ad": "Gülnaz",
+    "soyadi": "ERGÖNÜL",
+    "dogumTarihi": 1973,
+    "dogumYeri": "OSMANIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulnaz-ergonul-1973-osmaniye.jpeg"
+  },
+  {
+    "id": 470,
+    "ad": "Abdülkerim",
+    "soyadi": "ARSLAN",
+    "dogumTarihi": 1979,
+    "dogumYeri": "ERCIS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdulkerim-arslan-1979-ercis.jpeg"
+  },
+  {
+    "id": 471,
+    "ad": "Ayşe",
+    "soyadi": "TONĞUÇ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "BAYKAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ayse-tonguc-1971-baykan.jpeg"
+  },
+  {
+    "id": 472,
+    "ad": "Emine",
+    "soyadi": "TEMEL",
+    "dogumTarihi": 1986,
+    "dogumYeri": "SAVUR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emine-temel-1986-savur.jpeg"
+  },
+  {
+    "id": 473,
+    "ad": "Filiz",
+    "soyadi": "SADIKOĞLU",
+    "dogumTarihi": 1976,
+    "dogumYeri": "MAZIDAGI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/filiz-sadikoglu-1976-mazidagi.jpeg"
+  },
+  {
+    "id": 474,
+    "ad": "Fatma",
+    "soyadi": "NARÇİN",
+    "dogumTarihi": 1971,
+    "dogumYeri": "IDIL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatma-narcin-1971-idil.jpeg"
+  },
+  {
+    "id": 475,
+    "ad": "Remzi",
+    "soyadi": "DEMİROĞLU",
+    "dogumTarihi": 1974,
+    "dogumYeri": "PAZARCIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/remzi-demiroglu-1974-pazarcik.jpeg"
+  },
+  {
+    "id": 476,
+    "ad": "Mustafa",
+    "soyadi": "ÇELİK",
+    "dogumTarihi": 1960,
+    "dogumYeri": "KARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-celik-1960-kara.jpeg"
+  },
+  {
+    "id": 477,
+    "ad": "Mustafa",
+    "soyadi": "DAŞDEMİR",
+    "dogumTarihi": 1973,
+    "dogumYeri": "BULANIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-dasdemir-1973-bulanik.jpeg"
+  },
+  {
+    "id": 478,
+    "ad": "Ulaş",
+    "soyadi": "ARSLAN",
+    "dogumTarihi": 1975,
+    "dogumYeri": "SASON",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ulas-arslan-1975-sason.jpeg"
+  },
+  {
+    "id": 479,
+    "ad": "Nedim",
+    "soyadi": "SEVEN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "HAKKARI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nedim-seven-1968-hakkari.jpeg"
+  },
+  {
+    "id": 480,
+    "ad": "Ali",
+    "soyadi": "BOR",
+    "dogumTarihi": 1980,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-bor-1980-yuksekova.jpeg"
+  },
+  {
+    "id": 481,
+    "ad": "Cumhur",
+    "soyadi": "KORKMAZ",
+    "dogumTarihi": 1983,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cumhur-korkmaz-1983-yuksekova.jpeg"
+  },
+  {
+    "id": 482,
+    "ad": "Nazan",
+    "soyadi": "ATAŞ",
+    "dogumTarihi": 1978,
+    "dogumYeri": "BENLIKAYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nazan-atas-1978-benlikaya.jpeg"
+  },
+  {
+    "id": 483,
+    "ad": "Türkan",
+    "soyadi": "ÇETİN",
+    "dogumTarihi": 1976,
+    "dogumYeri": "HIZAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/turkan-cetin-1976-hizan.jpeg"
+  },
+  {
+    "id": 484,
+    "ad": "Remziye",
+    "soyadi": "COLAK",
+    "dogumTarihi": 1980,
+    "dogumYeri": "Zivikan",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/remziye-colak-1980-zivikan.jpeg"
+  },
+  {
+    "id": 485,
+    "ad": "Orhan",
+    "soyadi": "ÜREK",
+    "dogumTarihi": 1994,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/orhan-urek-1994-uludere.jpeg"
+  },
+  {
+    "id": 486,
+    "ad": "Bergüzar",
+    "soyadi": "DUMLU",
+    "dogumTarihi": 1968,
+    "dogumYeri": "DOGUBAYAZIT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/berguzar-dumlu-1968-dogubayazit.jpeg"
+  },
+  {
+    "id": 487,
+    "ad": "Yasemin",
+    "soyadi": "BECEREKLİ",
+    "dogumTarihi": 1974,
+    "dogumYeri": "SILVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yasemin-becerekli-1974-silvan.jpeg"
+  },
+  {
+    "id": 488,
+    "ad": "Esmer",
+    "soyadi": "AYAZ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ORTACA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/esmer-ayaz-1973-ortaca.jpeg"
+  },
+  {
+    "id": 489,
+    "ad": "Fatoş",
+    "soyadi": "YENER",
+    "dogumTarihi": 1968,
+    "dogumYeri": "PAZARCIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatos-yener-1968-pazarcik.jpeg"
+  },
+  {
+    "id": 490,
+    "ad": "Süleyman",
+    "soyadi": "GÜNYELİ",
+    "dogumTarihi": 1957,
+    "dogumYeri": "GEDNE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-gunyeli-1957-gedne.jpeg"
+  },
+  {
+    "id": 491,
+    "ad": "Eyyüp",
+    "soyadi": "DORU",
+    "dogumTarihi": 1960,
+    "dogumYeri": "IGDIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/eyyup-doru-1960-igdir.jpeg"
+  },
+  {
+    "id": 492,
+    "ad": "Aynur",
+    "soyadi": "HÜLAKÜ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "SILVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/aynur-hulaku-1971-silvan.jpeg"
+  },
+  {
+    "id": 493,
+    "ad": "Emine",
+    "soyadi": "TÜM",
+    "dogumTarihi": 1975,
+    "dogumYeri": "YUKARIBORANDERE KÖYÜ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emine-tum-1975-yukariborandere-koyu.jpeg"
+  },
+  {
+    "id": 494,
+    "ad": "Azime",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1966,
+    "dogumYeri": "HOZAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/azime-yilmaz-1966-hozat.jpeg"
+  },
+  {
+    "id": 495,
+    "ad": "Mehmet Ferdi",
+    "soyadi": "ELALMIŞ",
+    "dogumTarihi": 1982,
+    "dogumYeri": "YUKARIOCAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-ferdi-elalmis-1982-yukariocak.jpeg"
+  },
+  {
+    "id": 496,
+    "ad": "Aysun",
+    "soyadi": "ÇAMDALI",
+    "dogumTarihi": 1976,
+    "dogumYeri": "GAZIANTEP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/aysun-camdali-1976-gaziantep.jpeg"
+  },
+  {
+    "id": 497,
+    "ad": "Bengin",
+    "soyadi": "BİYAM",
+    "dogumTarihi": 1972,
+    "dogumYeri": "ERUH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bengin-biyam-1972-eruh.jpeg"
+  },
+  {
+    "id": 498,
+    "ad": "Müslüm",
+    "soyadi": "BAYAT",
+    "dogumTarihi": 1978,
+    "dogumYeri": "PALU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muslum-bayat-1978-palu.jpeg"
+  },
+  {
+    "id": 499,
+    "ad": "Ali",
+    "soyadi": "BENEK",
+    "dogumTarihi": 1958,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-benek-1958-uludere.jpeg"
+  },
+  {
+    "id": 500,
+    "ad": "Fehman",
+    "soyadi": "HÜSEYİN",
+    "dogumTarihi": 1969,
+    "dogumYeri": "SURIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fehman-huseyin-1969-suriye.jpeg"
+  },
+  {
+    "id": 501,
+    "ad": "Ferhat Abdi",
+    "soyadi": "ŞAHİN",
+    "dogumTarihi": 1963,
+    "dogumYeri": "SURIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ferhat-abdi-sahin-1963-suriye.jpeg"
+  },
+  {
+    "id": 502,
+    "ad": "Salih",
+    "soyadi": "MÜSLÜM",
+    "dogumTarihi": 1951,
+    "dogumYeri": "SURIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/salih-muslum-1951-suriye.jpeg"
+  },
+  {
+    "id": 503,
+    "ad": "Emine",
+    "soyadi": "TEKAS",
+    "dogumTarihi": 1974,
+    "dogumYeri": "SILOPI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emine-tekas-1974-silopi.jpeg"
+  },
+  {
+    "id": 504,
+    "ad": "Güzel",
+    "soyadi": "İMECİK",
+    "dogumTarihi": 1978,
+    "dogumYeri": "IDIL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/guzel-imecik-1978-idil.jpeg"
+  },
+  {
+    "id": 505,
+    "ad": "Şemsettin",
+    "soyadi": "SUYU",
+    "dogumTarihi": 1974,
+    "dogumYeri": "AHLAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/semsettin-suyu-1974-ahlat.jpeg"
+  },
+  {
+    "id": 506,
+    "ad": "Nulifer",
+    "soyadi": "KOÇ",
+    "dogumTarihi": 1969,
+    "dogumYeri": "ARDAHAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nulifer-koc-1969-ardahan.jpeg"
+  },
+  {
+    "id": 507,
+    "ad": "Neval",
+    "soyadi": "HAMİTOĞLU",
+    "dogumTarihi": 1979,
+    "dogumYeri": "MAZIDAGI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/neval-hamitoglu-1979-mazidagi.jpeg"
+  },
+  {
+    "id": 508,
+    "ad": "Gülüşan",
+    "soyadi": "EKSEN",
+    "dogumTarihi": 1965,
+    "dogumYeri": "SETER",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulusan-eksen-1965-seter.jpeg"
+  },
+  {
+    "id": 509,
+    "ad": "Cemal",
+    "soyadi": "ŞERİK",
+    "dogumTarihi": 1962,
+    "dogumYeri": "DIVRIGI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cemal-serik-1962-divrigi.jpeg"
+  },
+  {
+    "id": 510,
+    "ad": "Serdar",
+    "soyadi": "ÖZDEMİR",
+    "dogumTarihi": 1972,
+    "dogumYeri": "MAZGIRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/serdar-ozdemir-1972-mazgirt.jpeg"
+  },
+  {
+    "id": 511,
+    "ad": "Hacire",
+    "soyadi": "ATEŞ",
+    "dogumTarihi": 1977,
+    "dogumYeri": "DIYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hacire-ates-1977-diyarbakir.jpeg"
+  },
+  {
+    "id": 512,
+    "ad": "Gülten",
+    "soyadi": "ALATAŞ",
+    "dogumTarihi": 1965,
+    "dogumYeri": "MALATYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulten-alatas-1965-malatya.jpeg"
+  },
+  {
+    "id": 513,
+    "ad": "Şükran",
+    "soyadi": "SADAY",
+    "dogumTarihi": 1976,
+    "dogumYeri": "NUSAYBIN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sukran-saday-1976-nusaybin.jpeg"
+  },
+  {
+    "id": 514,
+    "ad": "Şenay",
+    "soyadi": "ORUÇ",
+    "dogumTarihi": 1975,
+    "dogumYeri": "AHLAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/senay-oruc-1975-ahlat.jpeg"
+  },
+  {
+    "id": 515,
+    "ad": "Neşe",
+    "soyadi": "BALTAŞ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "MALAZGİRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nese-baltas-1973-malazgirt.jpeg"
+  },
+  {
+    "id": 516,
+    "ad": "Ayten",
+    "soyadi": "ENE",
+    "dogumTarihi": 1977,
+    "dogumYeri": "SIIRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ayten-ene-1977-siirt.jpeg"
+  },
+  {
+    "id": 517,
+    "ad": "Menice",
+    "soyadi": "TAŞAN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "DORUK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/menice-tasan-1972-doruk.jpeg"
+  },
+  {
+    "id": 518,
+    "ad": "Necla",
+    "soyadi": "ORHAN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "NUSAYBIN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/necla-orhan-1972-nusaybin.jpeg"
+  },
+  {
+    "id": 519,
+    "ad": "Emine",
+    "soyadi": "GÖK",
+    "dogumTarihi": 1978,
+    "dogumYeri": "BEYTÜSSEBAB",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emine-gok-1978-beytussebab.jpeg"
+  },
+  {
+    "id": 520,
+    "ad": "Feruh",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1971,
+    "dogumYeri": "SOLHAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/feruh-yildirim-1971-solhan.jpeg"
+  },
+  {
+    "id": 521,
+    "ad": "Mehmet Kasim",
+    "soyadi": "KARAY",
+    "dogumTarihi": 1983,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-kasim-karay-1983-yuksekova.jpeg"
+  },
+  {
+    "id": 522,
+    "ad": "Sultan",
+    "soyadi": "KOCABEY",
+    "dogumTarihi": 1975,
+    "dogumYeri": "ERKENT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sultan-kocabey-1975-erkent.jpeg"
+  },
+  {
+    "id": 523,
+    "ad": "Nurettin",
+    "soyadi": "DEMİRTAS",
+    "dogumTarihi": 1972,
+    "dogumYeri": "PALU",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nurettin-demirtas-1972-palu.jpeg"
+  },
+  {
+    "id": 524,
+    "ad": "Nilüfer",
+    "soyadi": "ÇOBAN",
+    "dogumTarihi": 1978,
+    "dogumYeri": "BAKIRKÖY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nilufer-coban-1978-bakirkoy.jpeg"
+  },
+  {
+    "id": 525,
+    "ad": "Lokman",
+    "soyadi": "TOPRAK",
+    "dogumTarihi": 1977,
+    "dogumYeri": "ERKENT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/lokman-toprak-1977-erkent.jpeg"
+  },
+  {
+    "id": 526,
+    "ad": "Müzeyyen",
+    "soyadi": "AYDINLI",
+    "dogumTarihi": 1976,
+    "dogumYeri": "KURTALAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muzeyyen-aydinli-1976-kurtalan.jpeg"
+  },
+  {
+    "id": 527,
+    "ad": "Ramazan",
+    "soyadi": "AÇIKYÜZ",
+    "dogumTarihi": 1976,
+    "dogumYeri": "ESKISEHIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ramazan-acikyuz-1976-eskisehir.jpeg"
+  },
+  {
+    "id": 528,
+    "ad": "Cemil",
+    "soyadi": "BAYIK",
+    "dogumTarihi": 1955,
+    "dogumYeri": "ASAGIÇAKMAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cemil-bayik-1955-asagicakmak.jpeg"
+  },
+  {
+    "id": 529,
+    "ad": "Murat",
+    "soyadi": "KARAYILAN",
+    "dogumTarihi": 1954,
+    "dogumYeri": "KONAK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/murat-karayilan-1954-konak.jpeg"
+  },
+  {
+    "id": 530,
+    "ad": "Mustafa",
+    "soyadi": "KARASU",
+    "dogumTarihi": 1950,
+    "dogumYeri": "KARAPINAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-karasu-1950-karapinar.jpeg"
+  },
+  {
+    "id": 531,
+    "ad": "Hülya",
+    "soyadi": "ORAN",
+    "dogumTarihi": 1978,
+    "dogumYeri": "HOZAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hulya-oran-1978-hozat.jpeg"
+  },
+  {
+    "id": 532,
+    "ad": "Nuriye",
+    "soyadi": "KESBİR",
+    "dogumTarihi": 1961,
+    "dogumYeri": "BESIRI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nuriye-kesbir-1961-besiri.jpeg"
+  },
+  {
+    "id": 533,
+    "ad": "Duran",
+    "soyadi": "KALKAN",
+    "dogumTarihi": 1954,
+    "dogumYeri": "MAGARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/duran-kalkan-1954-magara.jpeg"
+  },
+  {
+    "id": 534,
+    "ad": "Sabri",
+    "soyadi": "OK",
+    "dogumTarihi": 1958,
+    "dogumYeri": "ADIYAMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sabri-ok-1958-adiyaman.jpeg"
+  },
+  {
+    "id": 535,
+    "ad": "Engin",
+    "soyadi": "KARAASLAN",
+    "dogumTarihi": 1964,
+    "dogumYeri": "KARTALDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/engin-karaaslan-1964-kartaldere.jpeg"
+  },
+  {
+    "id": 536,
+    "ad": "Elif",
+    "soyadi": "YILDIRIM",
+    "dogumTarihi": 1964,
+    "dogumYeri": "PAZARCIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/elif-yildirim-1964-pazarcik.jpeg"
+  },
+  {
+    "id": 537,
+    "ad": "Süleyman",
+    "soyadi": "ŞAHİN",
+    "dogumTarihi": 1970,
+    "dogumYeri": "TUNCELI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/suleyman-sahin-1970-tunceli.jpeg"
+  },
+  {
+    "id": 538,
+    "ad": "Muzaffer",
+    "soyadi": "AYATA",
+    "dogumTarihi": 1956,
+    "dogumYeri": "SIVEREK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muzaffer-ayata-1956-siverek.jpeg"
+  },
+  {
+    "id": 539,
+    "ad": "Mehmet",
+    "soyadi": "TÖREN",
+    "dogumTarihi": 1962,
+    "dogumYeri": "BOZOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-toren-1962-bozova.jpeg"
+  },
+  {
+    "id": 540,
+    "ad": "Adem",
+    "soyadi": "UZUN",
+    "dogumTarihi": 1967,
+    "dogumYeri": "KIRSEHIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/adem-uzun-1967-kirsehir.jpeg"
+  },
+  {
+    "id": 541,
+    "ad": "Layika",
+    "soyadi": "GÜLTEKİN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "TUNCELI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/layika-gultekin-1974-tunceli.jpeg"
+  },
+  {
+    "id": 542,
+    "ad": "Remzi",
+    "soyadi": "KARTAL",
+    "dogumTarihi": 1948,
+    "dogumYeri": "VAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/remzi-kartal-1948-van.jpeg"
+  },
+  {
+    "id": 543,
+    "ad": "Zübeyir",
+    "soyadi": "AYDAR",
+    "dogumTarihi": 1961,
+    "dogumYeri": "YANIKSES",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zubeyir-aydar-1961-yanikses.jpeg"
+  },
+  {
+    "id": 544,
+    "ad": "Ayfer",
+    "soyadi": "KORDU",
+    "dogumTarihi": 1968,
+    "dogumYeri": "ÇAYIRLI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ayfer-kordu-1968-cayirli.jpeg"
+  },
+  {
+    "id": 545,
+    "ad": "Rıza",
+    "soyadi": "ALTUN",
+    "dogumTarihi": 1956,
+    "dogumYeri": "K.SÖBEÇIMEN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/riza-altun-1956-ksobecimen.jpeg"
+  },
+  {
+    "id": 546,
+    "ad": "Mehmet Tahir",
+    "soyadi": "KILIÇ",
+    "dogumTarihi": 1966,
+    "dogumYeri": "B.KINER",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mehmet-tahir-kilic-1966-bkiner.jpeg"
+  },
+  {
+    "id": 547,
+    "ad": "Yusuf",
+    "soyadi": "ŞEK",
+    "dogumTarihi": 1974,
+    "dogumYeri": "ARALIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yusuf-sek-1974-aralik.jpeg"
+  },
+  {
+    "id": 548,
+    "ad": "Fehmi",
+    "soyadi": "ATALAY",
+    "dogumTarihi": 1969,
+    "dogumYeri": "LICE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fehmi-atalay-1969-lice.jpeg"
+  },
+  {
+    "id": 549,
+    "ad": "Bedirhan",
+    "soyadi": "ABO",
+    "dogumTarihi": 1979,
+    "dogumYeri": "BEYTÜSSEBAP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bedirhan-abo-1979-beytussebap.jpeg"
+  },
+  {
+    "id": 550,
+    "ad": "Abdulkadir",
+    "soyadi": "ZENGER",
+    "dogumTarihi": 1971,
+    "dogumYeri": "HILVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdulkadir-zenger-1971-hilvan.jpeg"
+  },
+  {
+    "id": 551,
+    "ad": "Gönül",
+    "soyadi": "TEPE",
+    "dogumTarihi": 1959,
+    "dogumYeri": "DELIKAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gonul-tepe-1959-delikan.jpeg"
+  },
+  {
+    "id": 552,
+    "ad": "Gülüzar",
+    "soyadi": "TURAL",
+    "dogumTarihi": 1971,
+    "dogumYeri": "MALATYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/guluzar-tural-1971-malatya.jpeg"
+  },
+  {
+    "id": 553,
+    "ad": "Mahmut",
+    "soyadi": "DORA",
+    "dogumTarihi": 1956,
+    "dogumYeri": "BIRINI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mahmut-dora-1956-birini.jpeg"
+  },
+  {
+    "id": 554,
+    "ad": "Filiz",
+    "soyadi": "DUMAN",
+    "dogumTarihi": 1971,
+    "dogumYeri": "AGRI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/filiz-duman-1971-agri.jpeg"
+  },
+  {
+    "id": 555,
+    "ad": "Güleser",
+    "soyadi": "TÖRÜN",
+    "dogumTarihi": 1972,
+    "dogumYeri": "KIGI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/guleser-torun-1972-kigi.jpeg"
+  },
+  {
+    "id": 556,
+    "ad": "Abdulcelil",
+    "soyadi": "YILMAZ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ERUH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abdulcelil-yilmaz-1973-eruh.jpeg"
+  },
+  {
+    "id": 557,
+    "ad": "Emine",
+    "soyadi": "SERİNYEL",
+    "dogumTarihi": 1979,
+    "dogumYeri": "KIGI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emine-serinyel-1979-kigi.jpeg"
+  },
+  {
+    "id": 558,
+    "ad": "Salman",
+    "soyadi": "KURTULAN",
+    "dogumTarihi": 1962,
+    "dogumYeri": "PAZARCIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/salman-kurtulan-1962-pazarcik.jpeg"
+  },
+  {
+    "id": 559,
+    "ad": "Faruk",
+    "soyadi": "ERDEMİR",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ÇUKURCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/faruk-erdemir-1973-cukurca.jpeg"
+  },
+  {
+    "id": 560,
+    "ad": "Sadettin",
+    "soyadi": "DEDE",
+    "dogumTarihi": 1973,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sadettin-dede-1973-yuksekova.jpeg"
+  },
+  {
+    "id": 561,
+    "ad": "Ebuzeyid",
+    "soyadi": "SAKCAK",
+    "dogumTarihi": 1970,
+    "dogumYeri": "CIZRE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ebuzeyid-sakcak-1970-cizre.jpeg"
+  },
+  {
+    "id": 562,
+    "ad": "Birgül",
+    "soyadi": "AYAZ",
+    "dogumTarihi": 1978,
+    "dogumYeri": "DIYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/birgul-ayaz-1978-diyarbakir.jpeg"
+  },
+  {
+    "id": 563,
+    "ad": "Hatice",
+    "soyadi": "AKTAŞ",
+    "dogumTarihi": 1971,
+    "dogumYeri": "BAKIRKÖY",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hatice-aktas-1971-bakirkoy.jpeg"
+  },
+  {
+    "id": 564,
+    "ad": "Abidin",
+    "soyadi": "KARAKOÇ",
+    "dogumTarihi": 1967,
+    "dogumYeri": "DOGANSEHIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/abidin-karakoc-1967-dogansehir.jpeg"
+  },
+  {
+    "id": 565,
+    "ad": "İskan",
+    "soyadi": "AKYÜZ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "MIDYAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/iskan-akyuz-1973-midyat.jpeg"
+  },
+  {
+    "id": 566,
+    "ad": "Gülşen",
+    "soyadi": "AKSOY",
+    "dogumTarihi": 1978,
+    "dogumYeri": "GÖLYAZI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gulsen-aksoy-1978-golyazi.jpeg"
+  },
+  {
+    "id": 567,
+    "ad": "Serkan",
+    "soyadi": "NAZLİER",
+    "dogumTarihi": 1986,
+    "dogumYeri": "DIYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/serkan-nazlier-1986-diyarbakir.jpeg"
+  },
+  {
+    "id": 568,
+    "ad": "Havva",
+    "soyadi": "ERGÜN",
+    "dogumTarihi": 1998,
+    "dogumYeri": "DIYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/havva-ergun-1998-diyarbakir.jpeg"
+  },
+  {
+    "id": 569,
+    "ad": "Heybet",
+    "soyadi": "KAPAR",
+    "dogumTarihi": 1981,
+    "dogumYeri": "PERVARI",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/heybet-kapar-1981-pervari.jpeg"
+  },
+  {
+    "id": 570,
+    "ad": "Gazi",
+    "soyadi": "BAHADIR",
+    "dogumTarihi": 1983,
+    "dogumYeri": "BEYTÜSSEBAP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/gazi-bahadir-1983-beytussebap.jpeg"
+  },
+  {
+    "id": 571,
+    "ad": "Kenan",
+    "soyadi": "EREN",
+    "dogumTarihi": 1980,
+    "dogumYeri": "ERCIS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kenan-eren-1980-ercis.jpeg"
+  },
+  {
+    "id": 572,
+    "ad": "Osman",
+    "soyadi": "ÇİÇEK",
+    "dogumTarihi": 1977,
+    "dogumYeri": "BOZOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/osman-cicek-1977-bozova.jpeg"
+  },
+  {
+    "id": 573,
+    "ad": "Arzu",
+    "soyadi": "KAHRIMAN",
+    "dogumTarihi": 1975,
+    "dogumYeri": "INEGÖL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/arzu-kahriman-1975-inegol.jpeg"
+  },
+  {
+    "id": 574,
+    "ad": "Sabriye",
+    "soyadi": "İLGÜN",
+    "dogumTarihi": 1971,
+    "dogumYeri": "PERTEK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sabriye-ilgun-1971-pertek.jpeg"
+  },
+  {
+    "id": 575,
+    "ad": "Saban",
+    "soyadi": "BOZAN",
+    "dogumTarihi": 1968,
+    "dogumYeri": "ÇUKURCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/saban-bozan-1968-cukurca.jpeg"
+  },
+  {
+    "id": 576,
+    "ad": "Turan",
+    "soyadi": "TEKİN",
+    "dogumTarihi": 1984,
+    "dogumYeri": "KOZLUK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/turan-tekin-1984-kozluk.jpeg"
+  },
+  {
+    "id": 577,
+    "ad": "Fehim",
+    "soyadi": "KELEŞ",
+    "dogumTarihi": 1989,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fehim-keles-1989-yuksekova.jpeg"
+  },
+  {
+    "id": 578,
+    "ad": "Sükran",
+    "soyadi": "BİNER",
+    "dogumTarihi": 1973,
+    "dogumYeri": "MURADIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sukran-biner-1973-muradiye.jpeg"
+  },
+  {
+    "id": 579,
+    "ad": "Yusuf",
+    "soyadi": "KALKAN",
+    "dogumTarihi": 1973,
+    "dogumYeri": "ÇUKURCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yusuf-kalkan-1973-cukurca.jpeg"
+  },
+  {
+    "id": 580,
+    "ad": "Asiye",
+    "soyadi": "UYSAL",
+    "dogumTarihi": 1990,
+    "dogumYeri": "SİİRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/asiye-uysal-1990-siirt.jpeg"
+  },
+  {
+    "id": 581,
+    "ad": "Hasan",
+    "soyadi": "ÇELİK",
+    "dogumTarihi": 1995,
+    "dogumYeri": "URLA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hasan-celik-1995-urla.jpeg"
+  },
+  {
+    "id": 582,
+    "ad": "Aygül",
+    "soyadi": "BİDAV",
+    "dogumTarihi": 1965,
+    "dogumYeri": "PERTEK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/aygul-bidav-1965-pertek.jpeg"
+  },
+  {
+    "id": 583,
+    "ad": "Yusuf ",
+    "soyadi": "KAPLAN",
+    "dogumTarihi": 1969,
+    "dogumYeri": "HAKKARİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yusuf--kaplan-1969-hakkari.jpeg"
+  },
+  {
+    "id": 584,
+    "ad": "Sadık",
+    "soyadi": "DAYAN",
+    "dogumTarihi": 1983,
+    "dogumYeri": "ERUH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sadik-dayan-1983-eruh.jpeg"
+  },
+  {
+    "id": 585,
+    "ad": "Mustafa",
+    "soyadi": "SAĞIN",
+    "dogumTarihi": 1987,
+    "dogumYeri": "DOĞUBEYAZIT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-sagin-1987-dogubeyazit.jpeg"
+  },
+  {
+    "id": 586,
+    "ad": "Garip",
+    "soyadi": "SEVGİN",
+    "dogumTarihi": 1980,
+    "dogumYeri": "ERUH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/garip-sevgin-1980-eruh.jpeg"
+  },
+  {
+    "id": 587,
+    "ad": "Kaddafi",
+    "soyadi": "AYDIN",
+    "dogumTarihi": 1990,
+    "dogumYeri": "MALAZGİRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kaddafi-aydin-1990-malazgirt.jpeg"
+  },
+  {
+    "id": 588,
+    "ad": "Kutbeddin",
+    "soyadi": "YAZBAŞI",
+    "dogumTarihi": 1966,
+    "dogumYeri": "SİLVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kutbeddin-yazbasi-1966-silvan.jpeg"
+  },
+  {
+    "id": 589,
+    "ad": "Yusuf",
+    "soyadi": "TURHALLI",
+    "dogumTarihi": 1969,
+    "dogumYeri": "GENÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yusuf-turhalli-1969-genc.jpeg"
+  },
+  {
+    "id": 590,
+    "ad": "Engin",
+    "soyadi": "ÇATAK",
+    "dogumTarihi": 1975,
+    "dogumYeri": "SİLVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/engin-catak-1975-silvan.jpeg"
+  },
+  {
+    "id": 591,
+    "ad": "Feyzullah",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1982,
+    "dogumYeri": "BİSMİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/feyzullah-demir-1982-bismil.jpeg"
+  },
+  {
+    "id": 592,
+    "ad": "Halil",
+    "soyadi": "ATAÇ",
+    "dogumTarihi": 1955,
+    "dogumYeri": "ZAHPİR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/halil-atac-1955-zahpir.jpeg"
+  },
+  {
+    "id": 593,
+    "ad": "Hıdır",
+    "soyadi": "SARIKAYA",
+    "dogumTarihi": 1966,
+    "dogumYeri": "HOZAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hidir-sarikaya-1966-hozat.jpeg"
+  },
+  {
+    "id": 594,
+    "ad": "Emrah",
+    "soyadi": "ÖNER",
+    "dogumTarihi": 1984,
+    "dogumYeri": "GEVAŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emrah-oner-1984-gevas.jpeg"
+  },
+  {
+    "id": 595,
+    "ad": "Seyithan",
+    "soyadi": "BAYDAR",
+    "dogumTarihi": 1988,
+    "dogumYeri": "GEVAŞ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/seyithan-baydar-1988-gevas.jpeg"
+  },
+  {
+    "id": 596,
+    "ad": "Lokman",
+    "soyadi": "BULUT",
+    "dogumTarihi": 1977,
+    "dogumYeri": "NUSAYBİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/lokman-bulut-1977-nusaybin.jpeg"
+  },
+  {
+    "id": 597,
+    "ad": "Devran",
+    "soyadi": "YÜRÜK",
+    "dogumTarihi": 1993,
+    "dogumYeri": "ULUDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/devran-yuruk-1993-uludere.jpeg"
+  },
+  {
+    "id": 598,
+    "ad": "Ali",
+    "soyadi": "TOPRAK",
+    "dogumTarihi": 1981,
+    "dogumYeri": "ERKENT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ali-toprak-1981-erkent.jpeg"
+  },
+  {
+    "id": 599,
+    "ad": "Fatma",
+    "soyadi": "DEMİR",
+    "dogumTarihi": null,
+    "dogumYeri": null,
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fatma-demir.jpeg"
+  },
+  {
+    "id": 600,
+    "ad": "Fawza El",
+    "soyadi": "YUSUF",
+    "dogumTarihi": null,
+    "dogumYeri": null,
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/fawza-el-yusuf.jpeg"
+  },
+  {
+    "id": 601,
+    "ad": "Hanife",
+    "soyadi": "HÜSEYİN",
+    "dogumTarihi": null,
+    "dogumYeri": null,
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hanife-huseyin.jpeg"
+  },
+  {
+    "id": 602,
+    "ad": "Leyla",
+    "soyadi": "AHMED",
+    "dogumTarihi": null,
+    "dogumYeri": null,
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/leyla-ahmed.jpeg"
+  },
+  {
+    "id": 603,
+    "ad": "Elif",
+    "soyadi": "MUHAMMED",
+    "dogumTarihi": null,
+    "dogumYeri": null,
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/elif-muhammed.jpeg"
+  },
+  {
+    "id": 604,
+    "ad": "Semir",
+    "soyadi": "ASU",
+    "dogumTarihi": null,
+    "dogumYeri": null,
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/semir-asu.jpeg"
+  },
+  {
+    "id": 605,
+    "ad": "Hakan",
+    "soyadi": "AYDIN",
+    "dogumTarihi": 1992,
+    "dogumYeri": "BULANIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hakan-aydin-1992-bulanik.jpeg"
+  },
+  {
+    "id": 606,
+    "ad": "KEREM",
+    "soyadi": "GÖK",
+    "dogumTarihi": 1979,
+    "dogumYeri": "BULANIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/kerem-gok-1979-bulanik.jpeg"
+  },
+  {
+    "id": 607,
+    "ad": "YAŞAR",
+    "soyadi": "AKYAZ",
+    "dogumTarihi": 1981,
+    "dogumYeri": "BULANIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yasar-akyaz-1981-bulanik.jpeg"
+  },
+  {
+    "id": 608,
+    "ad": "MAZLUM",
+    "soyadi": "YÖNTEN",
+    "dogumTarihi": 1992,
+    "dogumYeri": "DİYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mazlum-yonten-1992-diyarbakir.jpeg"
+  },
+  {
+    "id": 609,
+    "ad": "Perihan",
+    "soyadi": "GÖZLÜGÖL",
+    "dogumTarihi": 1988,
+    "dogumYeri": "PAZARCIK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/perihan-gozlugol-1988-pazarcik.jpeg"
+  },
+  {
+    "id": 610,
+    "ad": "Servet",
+    "soyadi": "GENÇ",
+    "dogumTarihi": 1990,
+    "dogumYeri": "KARLIOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/servet-genc-1990-karliova.jpeg"
+  },
+  {
+    "id": 611,
+    "ad": "Semih",
+    "soyadi": "ÖZBEĞ",
+    "dogumTarihi": 1989,
+    "dogumYeri": "BAŞKALE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/semih-ozbeg-1989-baskale.jpeg"
+  },
+  {
+    "id": 612,
+    "ad": "Ahmet",
+    "soyadi": "KARABACAK",
+    "dogumTarihi": 1962,
+    "dogumYeri": "KAHTA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-karabacak-1962-kahta.jpeg"
+  },
+  {
+    "id": 613,
+    "ad": "Leyla",
+    "soyadi": "FARİZ",
+    "dogumTarihi": 1996,
+    "dogumYeri": "KOBANİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/leyla-fariz-1996-kobani.jpeg"
+  },
+  {
+    "id": 614,
+    "ad": "Hacer",
+    "soyadi": "ŞİMŞEK",
+    "dogumTarihi": 1980,
+    "dogumYeri": "ÇUKURCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hacer-simsek-1980-cukurca.jpeg"
+  },
+  {
+    "id": 615,
+    "ad": "Medeni",
+    "soyadi": "AKCAN",
+    "dogumTarihi": 1974,
+    "dogumYeri": "TATVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/medeni-akcan-1974-tatvan.jpeg"
+  },
+  {
+    "id": 616,
+    "ad": "Müslüm",
+    "soyadi": "SAGLAMCAN",
+    "dogumTarihi": 1951,
+    "dogumYeri": "AREH",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muslum-saglamcan-1951-areh.jpeg"
+  },
+  {
+    "id": 617,
+    "ad": "Haci Bayram",
+    "soyadi": "İKE",
+    "dogumTarihi": 1968,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/haci-bayram-ike-1968-yuksekova.jpeg"
+  },
+  {
+    "id": 618,
+    "ad": "Ayten",
+    "soyadi": "KARAASLAN",
+    "dogumTarihi": 1970,
+    "dogumYeri": "ADANA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ayten-karaaslan-1970-adana.jpeg"
+  },
+  {
+    "id": 619,
+    "ad": "Rıdvan",
+    "soyadi": "İPEK",
+    "dogumTarihi": 1986,
+    "dogumYeri": "KULP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ridvan-ipek-1986-kulp.jpeg"
+  },
+  {
+    "id": 620,
+    "ad": "Ramazan",
+    "soyadi": "ASLAN",
+    "dogumTarihi": 1991,
+    "dogumYeri": "DİYARBAKIR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ramazan-aslan-1991-diyarbakir.jpeg"
+  },
+  {
+    "id": 621,
+    "ad": "İdris",
+    "soyadi": "BAĞCI",
+    "dogumTarihi": 1988,
+    "dogumYeri": "ÖZALP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/idris-bagci-1988-ozalp.jpeg"
+  },
+  {
+    "id": 622,
+    "ad": "Erkan",
+    "soyadi": "AĞATAY",
+    "dogumTarihi": 1990,
+    "dogumYeri": "MARDİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/erkan-agatay-1990-mardin.jpeg"
+  },
+  {
+    "id": 623,
+    "ad": "Delil",
+    "soyadi": "BAL",
+    "dogumTarihi": 1991,
+    "dogumYeri": "NUSAYBİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/delil-bal-1991-nusaybin.jpeg"
+  },
+  {
+    "id": 624,
+    "ad": "İhsan",
+    "soyadi": "YİĞİT",
+    "dogumTarihi": 1980,
+    "dogumYeri": "İDİL",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ihsan-yigit-1980-idil.jpeg"
+  },
+  {
+    "id": 625,
+    "ad": "Eyüp",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1987,
+    "dogumYeri": "NUSAYBİN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/eyup-demir-1987-nusaybin.jpeg"
+  },
+  {
+    "id": 626,
+    "ad": "İslam",
+    "soyadi": "DAYAN",
+    "dogumTarihi": 1982,
+    "dogumYeri": "CİZRE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/islam-dayan-1982-cizre.jpeg"
+  },
+  {
+    "id": 627,
+    "ad": "Bedran",
+    "soyadi": "ÇAGLI",
+    "dogumTarihi": 1999,
+    "dogumYeri": "HİZAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/bedran-cagli-1999-hizan.jpeg"
+  },
+  {
+    "id": 628,
+    "ad": "İlyas",
+    "soyadi": "EVİZ",
+    "dogumTarihi": 1981,
+    "dogumYeri": "SİİRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ilyas-eviz-1981-siirt.jpeg"
+  },
+  {
+    "id": 629,
+    "ad": "Hakan",
+    "soyadi": "YİLDİZ",
+    "dogumTarihi": 1990,
+    "dogumYeri": "GÜRPINAR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hakan-yildiz-1990-gurpinar.jpeg"
+  },
+  {
+    "id": 630,
+    "ad": "Erol",
+    "soyadi": "KESERCİ",
+    "dogumTarihi": 1984,
+    "dogumYeri": "ADİLCEVAZ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/erol-keserci-1984-adilcevaz.jpeg"
+  },
+  {
+    "id": 631,
+    "ad": "Orhan",
+    "soyadi": "ARAS",
+    "dogumTarihi": 1984,
+    "dogumYeri": "KAĞIZMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/orhan-aras-1984-kagizman.jpeg"
+  },
+  {
+    "id": 632,
+    "ad": "Nazım",
+    "soyadi": "GÜR",
+    "dogumTarihi": 1979,
+    "dogumYeri": "BEYTÜŞŞEBAP",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/nazim-gur-1979-beytussebap.jpeg"
+  },
+  {
+    "id": 633,
+    "ad": "Emine",
+    "soyadi": "ARAR",
+    "dogumTarihi": 1985,
+    "dogumYeri": "YÜKSEKOVA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/emine-arar-1985-yuksekova.jpeg"
+  },
+  {
+    "id": 634,
+    "ad": "Ayhan",
+    "soyadi": "DOĞRU",
+    "dogumTarihi": 1980,
+    "dogumYeri": "MALAZGİRT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ayhan-dogru-1980-malazgirt.jpeg"
+  },
+  {
+    "id": 635,
+    "ad": "Yakup Baver",
+    "soyadi": "KARTAL",
+    "dogumTarihi": 1979,
+    "dogumYeri": "VAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/yakup-baver-kartal-1979-van.jpeg"
+  },
+  {
+    "id": 636,
+    "ad": "Hediye",
+    "soyadi": "ALTUN",
+    "dogumTarihi": 1977,
+    "dogumYeri": "SAVUR",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/hediye-altun-1977-savur.jpeg"
+  },
+  {
+    "id": 637,
+    "ad": "Faik",
+    "soyadi": "OĞAÇ",
+    "dogumTarihi": 1973,
+    "dogumYeri": "HİLVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/faik-ogac-1973-hilvan.jpeg"
+  },
+  {
+    "id": 638,
+    "ad": "Vedat",
+    "soyadi": "AKBAY",
+    "dogumTarihi": 1988,
+    "dogumYeri": "TATVAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/vedat-akbay-1988-tatvan.jpeg"
+  },
+  {
+    "id": 639,
+    "ad": "ZÜBEYDA",
+    "soyadi": "ZÜMRÜT",
+    "dogumTarihi": 1967,
+    "dogumYeri": "YENİÇEVRE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zubeyda-zumrut-1967-yenicevre.jpeg"
+  },
+  {
+    "id": 640,
+    "ad": "ENGİN",
+    "soyadi": "SEVER",
+    "dogumTarihi": 1977,
+    "dogumYeri": "TEKMAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/engin-sever-1977-tekman.jpeg"
+  },
+  {
+    "id": 641,
+    "ad": "BARIŞ",
+    "soyadi": "BENLER",
+    "dogumTarihi": 1978,
+    "dogumYeri": "ÇEMİŞGEZEK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/baris-benler-1978-cemisgezek.jpeg"
+  },
+  {
+    "id": 642,
+    "ad": "SİNAN",
+    "soyadi": "SARIGÜL",
+    "dogumTarihi": 1977,
+    "dogumYeri": "TUNCELİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/sinan-sarigul-1977-tunceli.jpeg"
+  },
+  {
+    "id": 643,
+    "ad": "AHMET",
+    "soyadi": "KARAMUS",
+    "dogumTarihi": 1961,
+    "dogumYeri": "YENKİCE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/ahmet-karamus-1961-yenkice.jpeg"
+  },
+  {
+    "id": 644,
+    "ad": "MUSTAFA",
+    "soyadi": "SARIKAYA",
+    "dogumTarihi": 1965,
+    "dogumYeri": "BABAHAT",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mustafa-sarikaya-1965-babahat.jpeg"
+  },
+  {
+    "id": 645,
+    "ad": "ZÜLFÜNAZ",
+    "soyadi": "COŞKUN",
+    "dogumTarihi": 1979,
+    "dogumYeri": "KARAKOÇAN",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/zulfunaz-coskun-1979-karakocan.jpeg"
+  },
+  {
+    "id": 646,
+    "ad": "CEVAHİR",
+    "soyadi": "YANAR",
+    "dogumTarihi": 1972,
+    "dogumYeri": "GENÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cevahir-yanar-1972-genc.jpeg"
+  },
+  {
+    "id": 647,
+    "ad": "CENGİZ",
+    "soyadi": "KIZILTAŞ",
+    "dogumTarihi": 1972,
+    "dogumYeri": "TUZLUCA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cengiz-kiziltas-1972-tuzluca.jpeg"
+  },
+  {
+    "id": 648,
+    "ad": "DİDEM",
+    "soyadi": "BOZKAYA",
+    "dogumTarihi": 1982,
+    "dogumYeri": "SURUÇ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/didem-bozkaya-1982-suruc.jpeg"
+  },
+  {
+    "id": 649,
+    "ad": "VELİD",
+    "soyadi": "HALİL",
+    "dogumTarihi": 1970,
+    "dogumYeri": "SURİYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/velid-halil-1970-suriye.jpeg"
+  },
+  {
+    "id": 650,
+    "ad": "Asya",
+    "soyadi": "OSMAN(ABDULLAH)",
+    "dogumTarihi": 1971,
+    "dogumYeri": "HASİÇİ",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/asya-osmanabdullah-1971-hasici.jpeg"
+  },
+  {
+    "id": 651,
+    "ad": "Oğuz",
+    "soyadi": "DEMİR",
+    "dogumTarihi": 1971,
+    "dogumYeri": "ANKARA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/oguz-demir-1971-ankara.jpeg"
+  },
+  {
+    "id": 652,
+    "ad": "Mihrac",
+    "soyadi": "URAL",
+    "dogumTarihi": 1956,
+    "dogumYeri": "ANTAKYA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/mihrac-ural-1956-antakya.jpeg"
+  },
+  {
+    "id": 653,
+    "ad": "Müslüm",
+    "soyadi": "ELMA",
+    "dogumTarihi": 1960,
+    "dogumYeri": "PERTEK",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/muslum-elma-1960-pertek.jpeg"
+  },
+  {
+    "id": 654,
+    "ad": "Erol",
+    "soyadi": "GÜLTEKİN",
+    "dogumTarihi": 1959,
+    "dogumYeri": "İKİZDERE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/erol-gultekin-1959-ikizdere.jpeg"
+  },
+  {
+    "id": 655,
+    "ad": "Garabit",
+    "soyadi": "DEMİRCİ",
+    "dogumTarihi": 1958,
+    "dogumYeri": "SARNIS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/garabit-demirci-1958-sarnis.jpeg"
+  },
+  {
+    "id": 656,
+    "ad": "Turgut",
+    "soyadi": "KAYA",
+    "dogumTarihi": 1973,
+    "dogumYeri": "MAÇKA",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/turgut-kaya-1973-macka.jpeg"
+  },
+  {
+    "id": 657,
+    "ad": "Rıza",
+    "soyadi": "PEKTAŞ",
+    "dogumTarihi": 1968,
+    "dogumYeri": "FETHIYE",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/riza-pektas-1968-fethiye.jpeg"
+  },
+  {
+    "id": 658,
+    "ad": "Cumhur Sinan",
+    "soyadi": "OKTULMUŞ",
+    "dogumTarihi": 1983,
+    "dogumYeri": "TARSUS",
+    "kategori": "kırmızı",
+    "resim": "https://raw.githubusercontent.com/z3dex/oyunresim/refs/heads/main/resimler/kirmizi/cumhur-sinan-oktulmus-1983-tarsus.jpeg"
+  }
+]
