@@ -1,0 +1,23 @@
+{
+  "orgutler": [
+    { "id": 1,  "orgut_adi": "A.F.İ.D" },
+    { "id": 2,  "orgut_adi": "DEAŞ" },
+    { "id": 3,  "orgut_adi": "DHKP/C" },
+    { "id": 4,  "orgut_adi": "DKP/BÖG" },
+    { "id": 5,  "orgut_adi": "DEVRİMCİ KARARGAH" },
+    { "id": 6,  "orgut_adi": "EL KAİDE" },
+    { "id": 7,  "orgut_adi": "FETÖ/PDY" },
+    { "id": 8,  "orgut_adi": "HTŞ" },
+    { "id": 9,  "orgut_adi": "HİZBULLAH" },
+    { "id": 10, "orgut_adi": "MKP" },
+    { "id": 11, "orgut_adi": "MLKP" },
+    { "id": 12, "orgut_adi": "MLSPB" },
+    { "id": 13, "orgut_adi": "PKK/KCK" },
+    { "id": 14, "orgut_adi": "TEVHİD-SELAM KUDÜS ORDUSU" },
+    { "id": 15, "orgut_adi": "THKP/C" },
+    { "id": 16, "orgut_adi": "TKP-ML Konferans" },
+    { "id": 17, "orgut_adi": "TKP/ML" },
+    { "id": 18, "orgut_adi": "TKEP/L" },
+    { "id": 19, "orgut_adi": "TİKB" }
+  ]
+}
